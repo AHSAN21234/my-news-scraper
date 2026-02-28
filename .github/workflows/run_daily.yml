@@ -1,0 +1,26 @@
+name: Run My Scraper
+on:
+  workflow_dispatch: # This adds a "Run" button you can click!
+  schedule:
+    - cron: '0 0 * * *' # This runs it automatically every night
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install Tools
+        run: pip install -r requirements.txt
+      - name: Run the script
+        run: python scraper.py
+      - name: Save the results back to GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add results.txt
+          git commit -m "New headlines added" || echo "No changes"
+          git push
