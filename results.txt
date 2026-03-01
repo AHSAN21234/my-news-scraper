@@ -5,3 +5,10 @@ Don't trust AI agents (nanoclaw.dev)
 Show HN: Decided to play god this morning, so I built an agent civilisation (github.com/nocodemf)
 Addressing Antigravity Bans and Reinstating Access (github.com/google-gemini)
 Customer Update on Simplenote (simplenote.com)
+
+Update: 2026-03-01 02:04:50.607360
+We do not think Anthropic should be designated as a supply chain risk (twitter.com/openai)
+The Windows 95 user interface: A case study in usability engineering (1996) (acm.org)
+MinIO Is Dead, Long Live MinIO (vonng.com)
+Obsidian Sync now has a headless client (help.obsidian.md)
+The happiest I've ever been (ben-mini.com)
