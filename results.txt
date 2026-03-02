@@ -12,3 +12,10 @@ The Windows 95 user interface: A case study in usability engineering (1996) (acm
 MinIO Is Dead, Long Live MinIO (vonng.com)
 Obsidian Sync now has a headless client (help.obsidian.md)
 The happiest I've ever been (ben-mini.com)
+
+Update: 2026-03-02 01:55:18.484477
+WebMCP is available for early preview (chrome.com)
+How to talk to anyone, and why you should (theguardian.com)
+Tove Jansson's criticized illustrations of The Hobbit (tovejansson.com)
+Ghostty – Terminal Emulator (ghostty.org)
+Little Free Library Books (littlefreelibrary.org)
