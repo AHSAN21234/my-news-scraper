@@ -19,3 +19,10 @@ How to talk to anyone, and why you should (theguardian.com)
 Tove Jansson's criticized illustrations of The Hobbit (tovejansson.com)
 Ghostty – Terminal Emulator (ghostty.org)
 Little Free Library Books (littlefreelibrary.org)
+
+Update: 2026-03-03 01:57:39.264287
+The workers behind Meta’s smart glasses can see everything (svd.se)
+Seed of Might Color Correction Process (2023) [pdf] (andrewvanner.github.io)
+Closure of the Weatheradio Service in Canada (rac.ca)
+Show HN: I built a sub-500ms latency voice agent from scratch (ntik.me)
+Welcome (back) to Macintosh (take.surf)
