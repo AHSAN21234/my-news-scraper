@@ -26,3 +26,10 @@ Seed of Might Color Correction Process (2023) [pdf] (andrewvanner.github.io)
 Closure of the Weatheradio Service in Canada (rac.ca)
 Show HN: I built a sub-500ms latency voice agent from scratch (ntik.me)
 Welcome (back) to Macintosh (take.surf)
+
+Update: 2026-03-04 01:51:23.613027
+2,218 Gary Marcus AI claims scored against evidence (dataset) (github.com/davegoldblatt)
+MacBook Pro with M5 Pro and M5 Max (apple.com)
+Lenovo's New ThinkPads Score 10/10 for Repairability (ifixit.com)
+Voxile: A ray-traced game made in its own engine and programming language (elbowgreasegames.substack.com)
+Claude's Cycles [pdf] (stanford.edu)
