@@ -33,3 +33,10 @@ MacBook Pro with M5 Pro and M5 Max (apple.com)
 Lenovo's New ThinkPads Score 10/10 for Repairability (ifixit.com)
 Voxile: A ray-traced game made in its own engine and programming language (elbowgreasegames.substack.com)
 Claude's Cycles [pdf] (stanford.edu)
+
+Update: 2026-03-05 01:54:31.539191
+MacBook Neo (apple.com)
+Building a new Flash (newgrounds.com)
+Googleworkspace/CLI (github.com/googleworkspace)
+Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’ (techcrunch.com)
+Something is afoot in the land of Qwen (simonwillison.net)
