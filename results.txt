@@ -40,3 +40,10 @@ Building a new Flash (newgrounds.com)
 Googleworkspace/CLI (github.com/googleworkspace)
 Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’ (techcrunch.com)
 Something is afoot in the land of Qwen (simonwillison.net)
+
+Update: 2026-03-06 01:55:40.154022
+CBP tapped into the online advertising ecosystem to track peoples’ movements (404media.co)
+Where things stand with the Department of War (anthropic.com)
+GPT-5.4 (openai.com)
+The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now (charm.land)
+A standard protocol to handle and discard low-effort, AI-Generated pull requests (406.fail)
