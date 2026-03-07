@@ -47,3 +47,10 @@ Where things stand with the Department of War (anthropic.com)
 GPT-5.4 (openai.com)
 The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now (charm.land)
 A standard protocol to handle and discard low-effort, AI-Generated pull requests (406.fail)
+
+Update: 2026-03-07 01:47:38.888656
+Plasma Bigscreen – 10-foot interface for KDE plasma (plasma-bigscreen.org)
+this css proves me human (will-keleher.com)
+C# strings silently kill your SQL Server indexes in Dapper (consultwithgriff.com)
+The Shady World of IP Leasing (acid.vegas)
+Hardening Firefox with Anthropic's Red Team (anthropic.com)
