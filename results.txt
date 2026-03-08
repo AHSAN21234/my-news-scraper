@@ -54,3 +54,10 @@ this css proves me human (will-keleher.com)
 C# strings silently kill your SQL Server indexes in Dapper (consultwithgriff.com)
 The Shady World of IP Leasing (acid.vegas)
 Hardening Firefox with Anthropic's Red Team (anthropic.com)
+
+Update: 2026-03-08 01:55:55.639659
+Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers (ecuadors.net)
+CasNum (github.com/0x0mer)
+Science Fiction Is Dying. Long Live Post Sci-Fi? (typebarmagazine.com)
+A decade of Docker containers (acm.org)
+Dumping Lego NXT firmware off of an existing brick (2025) (arcanenibble.github.io)
