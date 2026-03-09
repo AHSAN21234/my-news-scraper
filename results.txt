@@ -61,3 +61,10 @@ CasNum (github.com/0x0mer)
 Science Fiction Is Dying. Long Live Post Sci-Fi? (typebarmagazine.com)
 A decade of Docker containers (acm.org)
 Dumping Lego NXT firmware off of an existing brick (2025) (arcanenibble.github.io)
+
+Update: 2026-03-09 01:57:06.579986
+Agent Safehouse – macOS-native sandboxing for local agents (agent-safehouse.dev)
+Microscopes can see video on a laserdisc (youtube.com)
+PCB devboard the size of a USB-C plug (github.com/dieu-de-l-elec)
+Blacksky AppView (github.com/blacksky-algorithms)
+We should revisit literate programming in the agent era (silly.business)
