@@ -68,3 +68,10 @@ Microscopes can see video on a laserdisc (youtube.com)
 PCB devboard the size of a USB-C plug (github.com/dieu-de-l-elec)
 Blacksky AppView (github.com/blacksky-algorithms)
 We should revisit literate programming in the agent era (silly.business)
+
+Update: 2026-03-10 01:49:39.051863
+Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor (rahuljuliato.com)
+It looks like the “JVG algorithm” only wins on tiny numbers (scottaaronson.blog)
+Building a Procedural Hex Map with Wave Function Collapse (felixturner.github.io)
+JSLinux Now Supports x86_64 (bellard.org)
+Show HN: Remotely use my guitar tuner (realtuner.online)
