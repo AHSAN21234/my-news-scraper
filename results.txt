@@ -75,3 +75,10 @@ It looks like the “JVG algorithm” only wins on tiny numbers (scottaaronson.b
 Building a Procedural Hex Map with Wave Function Collapse (felixturner.github.io)
 JSLinux Now Supports x86_64 (bellard.org)
 Show HN: Remotely use my guitar tuner (realtuner.online)
+
+Update: 2026-03-11 01:49:36.018773
+Tony Hoare has died (computationalcomplexity.org)
+U+237C ⍼ Is Azimuth (ionathan.ch)
+Cloudflare crawl endpoint (cloudflare.com)
+Agents that run while I sleep (claudecodecamp.com)
+Yann LeCun raises $1B to build AI that understands the physical world (wired.com)
