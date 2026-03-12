@@ -82,3 +82,10 @@ U+237C ⍼ Is Azimuth (ionathan.ch)
 Cloudflare crawl endpoint (cloudflare.com)
 Agents that run while I sleep (claudecodecamp.com)
 Yann LeCun raises $1B to build AI that understands the physical world (wired.com)
+
+Update: 2026-03-12 01:54:02.797586
+Temporal: A nine-year journey to fix time in JavaScript (bloomberg.github.io)
+Many SWE-bench-Passing PRs would not be merged (metr.org)
+How much of HN is AI? (lcamtuf.substack.com)
+Don't post generated/AI-edited comments. HN is for conversation between humans. (news.ycombinator.com)
+Making WebAssembly a first-class language on the Web (hacks.mozilla.org)
