@@ -89,3 +89,10 @@ Many SWE-bench-Passing PRs would not be merged (metr.org)
 How much of HN is AI? (lcamtuf.substack.com)
 Don't post generated/AI-edited comments. HN is for conversation between humans. (news.ycombinator.com)
 Making WebAssembly a first-class language on the Web (hacks.mozilla.org)
+
+Update: 2026-03-13 01:53:39.765512
+Shall I implement it? No (gist.github.com)
+Malus – Clean Room as a Service (malus.sh)
+Bubble Sorted Amen Break (parametricavocado.itch.io)
+Reversing memory loss via gut-brain communication (stanford.edu)
+ATMs didn't kill bank teller jobs, but the iPhone did (davidoks.blog)
