@@ -96,3 +96,10 @@ Malus – Clean Room as a Service (malus.sh)
 Bubble Sorted Amen Break (parametricavocado.itch.io)
 Reversing memory loss via gut-brain communication (stanford.edu)
 ATMs didn't kill bank teller jobs, but the iPhone did (davidoks.blog)
+
+Update: 2026-03-14 01:51:23.996940
+1M context is now generally available for Opus 4.6 and Sonnet 4.6 (claude.com)
+I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites (benzimmermann.dev)
+Can I run AI locally? (canirun.ai)
+Show HN: Channel Surfer – Watch YouTube like it’s cable TV (channelsurfer.tv)
+Mouser: An open source alternative to Logi-Plus mouse software (github.com/tombadash)
