@@ -103,3 +103,10 @@ I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites (be
 Can I run AI locally? (canirun.ai)
 Show HN: Channel Surfer – Watch YouTube like it’s cable TV (channelsurfer.tv)
 Mouser: An open source alternative to Logi-Plus mouse software (github.com/tombadash)
+
+Update: 2026-03-15 02:08:01.203380
+Ageless Linux – Software for humans of indeterminate age (agelesslinux.org)
+Airbus is preparing two uncrewed combat aircraft (airbus.com)
+Federal Surveillance Tech Becomes Mandatory in New Cars by 2027 (gadgetreview.com)
+Show HN: Han – A Korean programming language written in Rust (github.com/xodn348)
+Hazardous substances found in all headphones tested by ToxFREE project (arnika.org)
