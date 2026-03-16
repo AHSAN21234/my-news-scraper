@@ -110,3 +110,10 @@ Airbus is preparing two uncrewed combat aircraft (airbus.com)
 Federal Surveillance Tech Becomes Mandatory in New Cars by 2027 (gadgetreview.com)
 Show HN: Han – A Korean programming language written in Rust (github.com/xodn348)
 Hazardous substances found in all headphones tested by ToxFREE project (arnika.org)
+
+Update: 2026-03-16 02:09:18.685435
+Canada's bill C-22 mandates mass metadata surveillance of Canadians (michaelgeist.ca)
+Chrome DevTools MCP (chrome.com)
+The 49MB web page (thatshubham.com)
+What Is Agentic Engineering? (simonwillison.net)
+A new Bigfoot documentary helps explain our conspiracy-minded era (msn.com)
