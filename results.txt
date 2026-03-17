@@ -117,3 +117,10 @@ Chrome DevTools MCP (chrome.com)
 The 49MB web page (thatshubham.com)
 What Is Agentic Engineering? (simonwillison.net)
 A new Bigfoot documentary helps explain our conspiracy-minded era (msn.com)
+
+Update: 2026-03-17 01:56:14.003722
+US SEC preparing to scrap quarterly reporting requirement (reuters.com)
+Leanstral: Open-source agent for trustworthy coding and formal proof engineering (mistral.ai)
+Meta’s renewed commitment to jemalloc (fb.com)
+The “small web” is bigger than you might think (kevinboone.me)
+US commercial insurers pay 254% of Medicare for the same hospital procedures (github.com/rexrodeo)
