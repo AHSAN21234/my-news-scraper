@@ -138,3 +138,10 @@ Autoresearch for SAT Solvers (github.com/iliazintchenko)
 Warranty Void If Regenerated (nearzero.software)
 Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe (gitlab.com/isolatedoctopi)
 Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training (github.com/alainnothere)
+
+Update: 2026-03-20 01:55:24.725359
+Claude Code: Channels (claude.com)
+Wayland set the Linux Desktop back by 10 years (omar.yt)
+Astral to Join OpenAI (astral.sh)
+Google details new 24-hour process to sideload unverified Android apps (arstechnica.com)
+Cockpit is a web-based graphical interface for servers (github.com/cockpit-project)
