@@ -145,3 +145,10 @@ Wayland set the Linux Desktop back by 10 years (omar.yt)
 Astral to Join OpenAI (astral.sh)
 Google details new 24-hour process to sideload unverified Android apps (arstechnica.com)
 Cockpit is a web-based graphical interface for servers (github.com/cockpit-project)
+
+Update: 2026-03-21 01:49:44.079978
+OpenCode – Open source AI coding agent (opencode.ai)
+Our commitment to Windows quality (windows.com)
+We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster (openui.com)
+Linux Applications Programming by Example: The Fundamental APIs (2nd Edition) (github.com/arnoldrobbins)
+Ghostling (github.com/ghostty-org)
