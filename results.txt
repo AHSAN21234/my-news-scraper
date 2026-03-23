@@ -159,3 +159,10 @@ Professional video editing, right in the browser with WebGPU and WASM (tooscut.a
 Some things just take time (pocoo.org)
 Why craft-lovers are losing their craft (hongminhee.org)
 Boomloom: Think with your hands (theboomloom.com)
+
+Update: 2026-03-23 02:02:24.005991
+PC Gamer recommends RSS readers in a 37mb article that just keeps downloading (stuartbreckenridge.net)
+The gold standard of optimization: A look under the hood of RollerCoaster Tycoon (larstofus.com)
+The future of version control (bramcohen.com)
+Reports of code's death are greatly exaggerated (stevekrouse.com)
+Intuitions for Tranformer Circuits (connorjdavis.com)
