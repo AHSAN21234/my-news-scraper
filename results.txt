@@ -166,3 +166,10 @@ The gold standard of optimization: A look under the hood of RollerCoaster Tycoon
 The future of version control (bramcohen.com)
 Reports of code's death are greatly exaggerated (stevekrouse.com)
 Intuitions for Tranformer Circuits (connorjdavis.com)
+
+Update: 2026-03-24 01:54:13.954273
+Windows 3.1 tiled background .bmp archive (github.com/andreasjansson)
+FCC Updates Covered List to Include Foreign-Made Consumer Routers (fcc.gov)
+Autoresearch on an old research idea (ykumar.me)
+iPhone 17 Pro Demonstrated Running a 400B LLM (twitter.com/anemll)
+Ju Ci: The Art of Repairing Porcelain (thesublimeblog.org)
