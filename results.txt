@@ -173,3 +173,10 @@ FCC Updates Covered List to Include Foreign-Made Consumer Routers (fcc.gov)
 Autoresearch on an old research idea (ykumar.me)
 iPhone 17 Pro Demonstrated Running a 400B LLM (twitter.com/anemll)
 Ju Ci: The Art of Repairing Porcelain (thesublimeblog.org)
+
+Update: 2026-03-25 01:59:58.391588
+In Edison’s Revenge, Data Centers Are Transitioning From AC to DC (ieee.org)
+Flighty Airports (flighty.com)
+Goodbye to Sora (twitter.com/soraofficialapp)
+I wanted to build vertical SaaS for pest control, so I took a technician job (onhand.pro)
+Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller (videojs.org)
