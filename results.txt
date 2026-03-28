@@ -194,3 +194,10 @@ Why so many control rooms were seafoam green (2025) (bethmathews.substack.com)
 Chicago artist creates tourism posters for city's neighborhoods (chicagotribune.com)
 Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label (cnn.com)
 Apple discontinues the Mac Pro with no plans for future hardware (9to5mac.com)
+
+Update: 2026-03-28 01:58:16.774624
+Make macOS consistently bad (unironically) (lr0.org)
+Don't YOLO your file system (stanford.edu)
+Improving Composer through real-time RL (cursor.com)
+Show HN: Twitch Roulette – Find live streamers who need views the most (twitchroulette.net)
+Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser (github.com/davidmonterocrespo24)
