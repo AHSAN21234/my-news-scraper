@@ -201,3 +201,10 @@ Don't YOLO your file system (stanford.edu)
 Improving Composer through real-time RL (cursor.com)
 Show HN: Twitch Roulette – Find live streamers who need views the most (twitchroulette.net)
 Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser (github.com/davidmonterocrespo24)
+
+Update: 2026-03-29 02:09:36.089634
+South Korea Mandates Solar Panels for Public Parking Lots (reutersconnect.com)
+Founder of GitLab battles cancer by founding companies (sytse.com)
+CSS is DOOMed (nielsleenheer.com)
+OpenBSD on Motorola 88000 Processors (online.fr)
+Alzheimer's disease mortality among taxi and ambulance drivers (2024) (bmj.com)
