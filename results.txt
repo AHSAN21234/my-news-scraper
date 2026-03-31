@@ -215,3 +215,10 @@ Voyager 1 runs on 69 KB of memory and an 8-track tape recorder (techfixated.com)
 Claude Code runs Git reset –hard origin/main against project repo every 10 mins (github.com/anthropics)
 ChatGPT won't let you type until Cloudflare reads your React state (buchodi.com)
 15 Years of Forking (waterfox.com)
+
+Update: 2026-03-31 02:07:46.037724
+Universal Claude.md – cut Claude output tokens by 63% (github.com/drona23)
+Fedware: Government apps that spy harder than the apps they ban (sambent.com)
+Android Developer Verification (googleblog.com)
+Do your own writing (alexhwoods.com)
+Turning a MacBook into a touchscreen with $1 of hardware (2018) (anishathalye.com)
