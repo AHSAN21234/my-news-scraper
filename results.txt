@@ -222,3 +222,10 @@ Fedware: Government apps that spy harder than the apps they ban (sambent.com)
 Android Developer Verification (googleblog.com)
 Do your own writing (alexhwoods.com)
 Turning a MacBook into a touchscreen with $1 of hardware (2018) (anishathalye.com)
+
+Update: 2026-04-01 02:24:25.645079
+The Claude Code Source Leak: fake tools, frustration regexes, undercover mode (alex000kim.com)
+TinyLoRA – Learning to Reason in 13 Parameters (arxiv.org)
+TruffleRuby (chrisseaton.com)
+A dot a day keeps the clutter away (scottlawsonbc.com)
+Ministack (Replacement for LocalStack) (ministack.org)
