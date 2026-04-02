@@ -229,3 +229,10 @@ TinyLoRA – Learning to Reason in 13 Parameters (arxiv.org)
 TruffleRuby (chrisseaton.com)
 A dot a day keeps the clutter away (scottlawsonbc.com)
 Ministack (Replacement for LocalStack) (ministack.org)
+
+Update: 2026-04-02 02:04:02.237852
+Live: Artemis II Launch Day Updates (nasa.gov)
+A new C++ back end for ocamlc (github.com/ocaml)
+DRAM pricing is killing the hobbyist SBC market (jeffgeerling.com)
+EmDash – A spiritual successor to WordPress that solves plugin security (cloudflare.com)
+Quantum computing bombshells that are not April Fools (scottaaronson.blog)
