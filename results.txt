@@ -236,3 +236,10 @@ A new C++ back end for ocamlc (github.com/ocaml)
 DRAM pricing is killing the hobbyist SBC market (jeffgeerling.com)
 EmDash – A spiritual successor to WordPress that solves plugin security (cloudflare.com)
 Quantum computing bombshells that are not April Fools (scottaaronson.blog)
+
+Update: 2026-04-03 02:05:49.068311
+Google releases Gemma 4 open models (deepmind.google)
+Decisions that eroded trust in Azure – by a former Azure Core engineer (isolveproblems.substack.com)
+Tailscale's new macOS home (tailscale.com)
+Artemis II's toilet is a moon mission milestone (scientificamerican.com)
+Cursor 3 (cursor.com)
