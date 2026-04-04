@@ -243,3 +243,10 @@ Decisions that eroded trust in Azure – by a former Azure Core engineer (isolve
 Tailscale's new macOS home (tailscale.com)
 Artemis II's toilet is a moon mission milestone (scientificamerican.com)
 Cursor 3 (cursor.com)
+
+Update: 2026-04-04 01:58:02.994557
+Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+Artemis II crew take “spectacular” image of Earth (bbc.com)
+Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C (github.com/cmc-labo)
+iNaturalist (inaturalist.org)
+Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team) (claude.com)
