@@ -250,3 +250,10 @@ Artemis II crew take “spectacular” image of Earth (bbc.com)
 Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C (github.com/cmc-labo)
 iNaturalist (inaturalist.org)
 Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team) (claude.com)
+
+Update: 2026-04-05 02:12:27.467782
+Show HN: A game where you build a GPU (jaso1024.com)
+OpenScreen is an open-source alternative to Screen Studio (github.com/siddharthvaddem)
+Isseven (isseven.app)
+LLM Wiki – example of an "idea file" (gist.github.com)
+How many products does Microsoft have named 'Copilot'? (teybannerman.com)
