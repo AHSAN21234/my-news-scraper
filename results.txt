@@ -257,3 +257,10 @@ OpenScreen is an open-source alternative to Screen Studio (github.com/siddharthv
 Isseven (isseven.app)
 LLM Wiki – example of an "idea file" (gist.github.com)
 How many products does Microsoft have named 'Copilot'? (teybannerman.com)
+
+Update: 2026-04-06 02:12:44.134755
+Show HN: YouTube search barely works, I made a search form with advanced filters (playlists.at)
+Gemma 4 on iPhone (apps.apple.com)
+Show HN: I built a tiny LLM to demystify how language models work (github.com/arman-bd)
+LÖVE: 2D Game Framework for Lua (github.com/love2d)
+Artemis II crew see first glimpse of far side of Moon [video] (bbc.com)
