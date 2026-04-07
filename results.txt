@@ -264,3 +264,10 @@ Gemma 4 on iPhone (apps.apple.com)
 Show HN: I built a tiny LLM to demystify how language models work (github.com/arman-bd)
 LÖVE: 2D Game Framework for Lua (github.com/love2d)
 Artemis II crew see first glimpse of far side of Moon [video] (bbc.com)
+
+Update: 2026-04-07 02:08:13.875897
+Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS (github.com/matthartman)
+Netflix Void Model: Video Object and Interaction Deletion (github.com/netflix)
+Solod – A Subset of Go That Translates to C (github.com/solod-dev)
+Launch HN: Freestyle – Sandboxes for Coding Agents (freestyle.sh)
+A cryptography engineer's perspective on quantum computing timelines (filippo.io)
