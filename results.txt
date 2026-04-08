@@ -271,3 +271,10 @@ Netflix Void Model: Video Object and Interaction Deletion (github.com/netflix)
 Solod – A Subset of Go That Translates to C (github.com/solod-dev)
 Launch HN: Freestyle – Sandboxes for Coding Agents (freestyle.sh)
 A cryptography engineer's perspective on quantum computing timelines (filippo.io)
+
+Update: 2026-04-08 02:09:06.507944
+Project Glasswing: Securing critical software for the AI era (anthropic.com)
+Lunar Flyby (nasa.gov)
+US and Iran agree to provisional ceasefire (theguardian.com)
+System Card: Claude Mythos Preview [pdf] (anthropic.com)
+GLM-5.1: Towards Long-Horizon Tasks (z.ai)
