@@ -278,3 +278,10 @@ Lunar Flyby (nasa.gov)
 US and Iran agree to provisional ceasefire (theguardian.com)
 System Card: Claude Mythos Preview [pdf] (anthropic.com)
 GLM-5.1: Towards Long-Horizon Tasks (z.ai)
+
+Update: 2026-04-09 02:02:04.289852
+LittleSnitch for Linux (obdev.at)
+I ported Mac OS X to the Nintendo Wii (bryankeller.github.io)
+USB for Software Developers: An introduction to writing userspace USB drivers (werwolv.net)
+Understanding the Kalman filter with a simple radar example (kalmanfilter.net)
+Little Snitch for Linux – Because Nothing Else Came Close (obdev.at)
