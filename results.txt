@@ -285,3 +285,10 @@ I ported Mac OS X to the Nintendo Wii (bryankeller.github.io)
 USB for Software Developers: An introduction to writing userspace USB drivers (werwolv.net)
 Understanding the Kalman filter with a simple radar example (kalmanfilter.net)
 Little Snitch for Linux – Because Nothing Else Came Close (obdev.at)
+
+Update: 2026-04-10 02:14:09.347957
+Microsoft PhotoDNA scanning problem (elevenforum.com)
+Native Instant Space Switching on macOS (arhan.sh)
+How NASA Built Artemis II’s Fault-Tolerant Computer (acm.org)
+Charcuterie – Visual similarity Unicode explorer (elastiq.ch)
+PicoZ80 – Drop-In Z80 Replacement (eaw.app)
