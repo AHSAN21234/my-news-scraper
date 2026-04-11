@@ -292,3 +292,10 @@ Native Instant Space Switching on macOS (arhan.sh)
 How NASA Built Artemis II’s Fault-Tolerant Computer (acm.org)
 Charcuterie – Visual similarity Unicode explorer (elastiq.ch)
 PicoZ80 – Drop-In Z80 Replacement (eaw.app)
+
+Update: 2026-04-11 02:02:18.452093
+Filing the corners off my MacBooks (kentwalters.com)
+Artemis II safely splashes down (cbsnews.com)
+Chimpanzees in Uganda locked in eight-year 'civil war', say researchers (bbc.com)
+1D Chess (rowan441.github.io)
+Installing Every* Firefox Extension (jack.cab)
