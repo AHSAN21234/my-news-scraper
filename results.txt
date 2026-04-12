@@ -299,3 +299,10 @@ Artemis II safely splashes down (cbsnews.com)
 Chimpanzees in Uganda locked in eight-year 'civil war', say researchers (bbc.com)
 1D Chess (rowan441.github.io)
 Installing Every* Firefox Extension (jack.cab)
+
+Update: 2026-04-12 02:24:14.997780
+Small models also found the vulnerabilities that Mythos found (aisle.com)
+Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023) (khronokernel.com)
+The End of Eleventy (brennan.day)
+How We Broke Top AI Agent Benchmarks: And What Comes Next (rdi.berkeley.edu)
+Pijul a FOSS distributed version control system (pijul.org)
