@@ -313,3 +313,10 @@ Bring Back Idiomatic Design (2023) (johnloeber.com)
 DIY Soft Drinks (blinry.org)
 Show HN: boringBar – a taskbar-style dock replacement for macOS (boringbar.app)
 A Perfectable Programming Language (alok.github.io)
+
+Update: 2026-04-14 02:22:58.808027
+Someone bought 30 WordPress plugins and planted a backdoor in all of them (anchor.host)
+GitHub Stacked PRs (github.github.com)
+Lean proved this program correct; then I found a bug (kirancodes.me)
+WiiFin – Jellyfin Client for Nintendo Wii (github.com/fabienmillet)
+Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets (github.com/sterlingcrispin)
