@@ -320,3 +320,10 @@ GitHub Stacked PRs (github.github.com)
 Lean proved this program correct; then I found a bug (kirancodes.me)
 WiiFin – Jellyfin Client for Nintendo Wii (github.com/fabienmillet)
 Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets (github.com/sterlingcrispin)
+
+Update: 2026-04-15 02:12:09.095295
+Stop Flock (stopflock.com)
+Claude Code Routines (claude.com)
+Rare concert recordings are landing on the Internet Archive (techcrunch.com)
+Fuck the cloud (2009) (textfiles.com)
+The Orange Pi 6 Plus (taoofmac.com)
