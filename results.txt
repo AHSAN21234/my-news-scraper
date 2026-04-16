@@ -327,3 +327,10 @@ Claude Code Routines (claude.com)
 Rare concert recordings are landing on the Internet Archive (techcrunch.com)
 Fuck the cloud (2009) (textfiles.com)
 The Orange Pi 6 Plus (taoofmac.com)
+
+Update: 2026-04-16 02:28:09.618542
+Cybersecurity looks like proof of work now (dbreunig.com)
+I made a terminal pager (theleo.zone)
+Ohio prison inmates 'built computers and hid them in ceiling (2017) (bbc.com)
+Google broke its promise to me – now ICE has my data (eff.org)
+Cal.com is going closed source (cal.com)
