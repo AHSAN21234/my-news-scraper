@@ -334,3 +334,10 @@ I made a terminal pager (theleo.zone)
 Ohio prison inmates 'built computers and hid them in ceiling (2017) (bbc.com)
 Google broke its promise to me – now ICE has my data (eff.org)
 Cal.com is going closed source (cal.com)
+
+Update: 2026-04-17 02:24:15.879965
+Claude Opus 4.7 (anthropic.com)
+Codex for almost everything (openai.com)
+CadQuery is an open-source Python library for building 3D CAD models (cadquery.github.io)
+Everything we like is a psyop (techcrunch.com)
+Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine (github.com/gainsec)
