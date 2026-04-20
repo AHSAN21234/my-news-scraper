@@ -355,3 +355,10 @@ Anonymous request-token comparisons from Opus 4.6 and Opus 4.7 (billchambers.me)
 College instructor turns to typewriters to curb AI-written work (sentinelcolorado.com)
 Updating Gun Rocket through 10 years of Unity Engine (jackpritz.com)
 The electromechanical angle computer inside the B-52 bomber's star tracker (righto.com)
+
+Update: 2026-04-20 02:28:53.564558
+Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed (github.com/shivampkumar)
+A Brief History of Fish Sauce (legalnomads.com)
+Vercel April 2026 security incident (bleepingcomputer.com)
+The Uncanny Valley and the Rising Power of Anti-AI Sentiment (localscribe.co)
+The Bromine Chokepoint (warontherocks.com)
