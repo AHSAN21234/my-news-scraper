@@ -362,3 +362,10 @@ A Brief History of Fish Sauce (legalnomads.com)
 Vercel April 2026 security incident (bleepingcomputer.com)
 The Uncanny Valley and the Rising Power of Anti-AI Sentiment (localscribe.co)
 The Bromine Chokepoint (warontherocks.com)
+
+Update: 2026-04-21 02:25:09.742400
+John Ternus to become Apple CEO (apple.com)
+How to Make a Fast Dynamic Language Interpreter (zef-lang.dev)
+Jujutsu megamerges for fun and profit (isaaccorbrey.com)
+Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving (qwen.ai)
+Kimi vendor verifier – verify accuracy of inference providers (kimi.com)
