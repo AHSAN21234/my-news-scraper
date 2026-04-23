@@ -376,3 +376,10 @@ Windows Server 2025 Runs Better on ARM (jasoneckert.github.io)
 SpaceX says it has agreement to acquire Cursor for $60B (twitter.com/spacex)
 The Vercel breach: OAuth attack exposes risk in platform environment variables (trendmicro.com)
 CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production (brex.com)
+
+Update: 2026-04-23 02:26:33.918344
+Alberta startup sells no-tech tractors for half price (wheelfront.com)
+Apple fixes bug that cops used to extract deleted chat messages from iPhones (techcrunch.com)
+We found a stable Firefox identifier linking all your private Tor identities (fingerprint.com)
+Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model (qwen.ai)
+5x5 Pixel font for tiny screens (maurycyz.com)
