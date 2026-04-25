@@ -390,3 +390,10 @@ Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign (socket.dev
 Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases (github.com/refactoringhq)
 MeshCore development team splits over trademark dispute and AI-generated code (meshcore.io)
 TorchTPU: Running PyTorch Natively on TPUs at Google Scale (googleblog.com)
+
+Update: 2026-04-25 02:09:02.026220
+Google plans to invest up to $40B in Anthropic (bloomberg.com)
+My audio interface has SSH enabled by default (hhh.hn)
+Iliad fragment found in Roman-era mummy (thehistoryblog.com)
+Sabotaging projects by overthinking, scope creep, and structural diffing (kevinlynagh.com)
+The Classic American Diner (loc.gov)
