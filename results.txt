@@ -397,3 +397,10 @@ My audio interface has SSH enabled by default (hhh.hn)
 Iliad fragment found in Roman-era mummy (thehistoryblog.com)
 Sabotaging projects by overthinking, scope creep, and structural diffing (kevinlynagh.com)
 The Classic American Diner (loc.gov)
+
+Update: 2026-04-26 02:31:48.653193
+Why has there been so little progress on Alzheimer's disease? (freakonomics.com)
+USB Cheat Sheet (2022) (fabiensanglard.net)
+Amateur armed with ChatGPT solves an Erdős problem (scientificamerican.com)
+The Free Universal Construction Kit (fffff.at)
+OpenAI Privacy Filter (openai.com)
