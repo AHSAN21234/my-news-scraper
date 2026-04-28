@@ -411,3 +411,10 @@ Self-updating screenshots (interblah.net)
 Three constraints before I build anything (jordanlord.co.uk)
 Fast16: High-precision software sabotage 5 years before Stuxnet (sentinelone.com)
 Box to save memory in Rust (dystroy.org)
+
+Update: 2026-04-28 02:41:25.094386
+Integrated by Design (vivianvoss.net)
+Microsoft and OpenAI end their exclusive and revenue-sharing deal (bloomberg.com)
+Talkie: a 13B vintage language model from 1930 (talkie-lm.com)
+Meetings are forcing functions (mooreds.com)
+Three men are facing charges in Toronto SMS Blaster arrests (tps.ca)
