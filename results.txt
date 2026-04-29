@@ -418,3 +418,10 @@ Microsoft and OpenAI end their exclusive and revenue-sharing deal (bloomberg.com
 Talkie: a 13B vintage language model from 1930 (talkie-lm.com)
 Meetings are forcing functions (mooreds.com)
 Three men are facing charges in Toronto SMS Blaster arrests (tps.ca)
+
+Update: 2026-04-29 02:41:09.592714
+Ghostty is leaving GitHub (mitchellh.com)
+How ChatGPT serves ads (buchodi.com)
+Claude system prompt bug wastes user money and bricks managed agents (github.com/anthropics)
+Before GitHub (pocoo.org)
+OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs (stratechery.com)
