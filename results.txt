@@ -425,3 +425,10 @@ How ChatGPT serves ads (buchodi.com)
 Claude system prompt bug wastes user money and bricks managed agents (github.com/anthropics)
 Before GitHub (pocoo.org)
 OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs (stratechery.com)
+
+Update: 2026-04-30 02:42:24.931892
+Craig Venter has died (jcvi.org)
+Zed 1.0 (zed.dev)
+Copy Fail (copy.fail)
+Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight (flyingmag.com)
+Cursor Camp (neal.fun)
