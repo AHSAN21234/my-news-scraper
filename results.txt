@@ -432,3 +432,10 @@ Zed 1.0 (zed.dev)
 Copy Fail (copy.fail)
 Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight (flyingmag.com)
 Cursor Camp (neal.fun)
+
+Update: 2026-05-01 02:49:10.862954
+OpenWarp (zerx.dev)
+How Mark Klein told the EFF about Room 641A [book excerpt] (mitpress.mit.edu)
+Opus 4.7 knows the real Kelsey (theargumentmag.com)
+For Linux kernel vulnerabilities, there is no heads-up to distributions (openwall.com)
+Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library (semgrep.dev)
