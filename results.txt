@@ -446,3 +446,10 @@ Artemis II Photo Timeline (artemistimeline.com)
 Good developers learn to program. Most courses teach a language (evilgeniuslabs.ca)
 New research suggests people can communicate and practice skills while dreaming (newyorker.com)
 The smelly baby problem (worksinprogress.news)
+
+Update: 2026-05-03 02:40:33.068985
+VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage (github.com/microsoft)
+A Couple Million Lines of Haskell: Production Engineering at Mercury (haskell.org)
+This Month in Ladybird - April 2026 (ladybird.org)
+Six Years Perfecting Maps on WatchOS (david-smith.org)
+Dav2d (videolan.org)
