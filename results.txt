@@ -453,3 +453,10 @@ A Couple Million Lines of Haskell: Production Engineering at Mercury (haskell.or
 This Month in Ladybird - April 2026 (ladybird.org)
 Six Years Perfecting Maps on WatchOS (david-smith.org)
 Dav2d (videolan.org)
+
+Update: 2026-05-04 02:38:31.872065
+BYOMesh – New LoRa mesh radio offers 100x the bandwidth (partyon.xyz)
+Let's Buy Spirit Air (letsbuyspiritair.com)
+Using "underdrawings" for accurate text and numbers (samcollins.blog)
+The 'Hidden' Costs of Great Abstractions (jdgr.net)
+DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper (github.com/aattaran)
