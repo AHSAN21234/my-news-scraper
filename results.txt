@@ -460,3 +460,10 @@ Let's Buy Spirit Air (letsbuyspiritair.com)
 Using "underdrawings" for accurate text and numbers (samcollins.blog)
 The 'Hidden' Costs of Great Abstractions (jdgr.net)
 DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper (github.com/aattaran)
+
+Update: 2026-05-05 02:31:58.348850
+Bun is being ported from Zig to Rust (github.com/oven-sh)
+How OpenAI delivers low-latency voice AI at scale (openai.com)
+Talking to strangers at the gym (thienantran.com)
+Agent Skills (addyosmani.com)
+Securing a DoD contractor: Finding a multi-tenant authorization vulnerability (strix.ai)
