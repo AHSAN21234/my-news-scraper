@@ -467,3 +467,10 @@ How OpenAI delivers low-latency voice AI at scale (openai.com)
 Talking to strangers at the gym (thienantran.com)
 Agent Skills (addyosmani.com)
 Securing a DoD contractor: Finding a multi-tenant authorization vulnerability (strix.ai)
+
+Update: 2026-05-06 02:36:29.651386
+.de TLD offline due to DNSSEC? (verisignlabs.com)
+Write some software, give it away for free (nonogra.ph)
+Accelerating Gemma 4: faster inference with multi-token prediction drafters (blog.google)
+Computer Use is 45x more expensive than structured APIs (reflex.dev)
+Three Inverse Laws of AI (susam.net)
