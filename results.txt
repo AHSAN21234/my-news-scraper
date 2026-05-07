@@ -474,3 +474,10 @@ Write some software, give it away for free (nonogra.ph)
 Accelerating Gemma 4: faster inference with multi-token prediction drafters (blog.google)
 Computer Use is 45x more expensive than structured APIs (reflex.dev)
 Three Inverse Laws of AI (susam.net)
+
+Update: 2026-05-07 02:38:37.193179
+Valve releases Steam Controller CAD files under Creative Commons license (digitalfoundry.net)
+The Vatican's Website in Latin (vatican.va)
+Appearing productive in the workplace (nooneshappy.com)
+The Old Guard: Confronting America's Gerontocratic Crisis (harpers.org)
+Vibe coding and agentic engineering are getting closer than I'd like (simonwillison.net)
