@@ -488,3 +488,10 @@ Maybe you shouldn't install new software for a bit (xeiaso.net)
 Dirtyfrag: Universal Linux LPE (openwall.com)
 The map that keeps Burning Man honest (not-ship.com)
 The Disappearance of the Public Bench (placesjournal.org)
+
+Update: 2026-05-09 02:38:07.837867
+Google broke reCAPTCHA for de-googled Android users (reclaimthenet.org)
+OpenAI's WebRTC problem (moq.dev)
+People Hate AI Art (mccue.dev)
+The React2Shell Story (lachlan.nz)
+AI is breaking two vulnerability cultures (jefftk.com)
