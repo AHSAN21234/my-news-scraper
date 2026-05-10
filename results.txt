@@ -495,3 +495,10 @@ OpenAI's WebRTC problem (moq.dev)
 People Hate AI Art (mccue.dev)
 The React2Shell Story (lachlan.nz)
 AI is breaking two vulnerability cultures (jefftk.com)
+
+Update: 2026-05-10 02:42:57.619469
+Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc (twitter.com/jarredsumner)
+Internet Archive Switzerland (blog.archive.org)
+Rust but Lisp (github.com/thatxliner)
+I’ve banned query strings (chrismorgan.info)
+The Serial TTL connector we deserve (kohlschuetter.github.io)
