@@ -502,3 +502,10 @@ Internet Archive Switzerland (blog.archive.org)
 Rust but Lisp (github.com/thatxliner)
 I’ve banned query strings (chrismorgan.info)
 The Serial TTL connector we deserve (kohlschuetter.github.io)
+
+Update: 2026-05-11 02:52:53.535451
+Hardware Attestation as Monopoly Enabler (grapheneos.social)
+Local AI needs to be the norm (unix.foo)
+Running local models on an M4 with 24GB memory (jola.dev)
+Incident Report: CVE-2024-YIKES (nesbitt.io)
+Obsidian plugin was abused to deploy a remote access trojan (netsecops.io)
