@@ -509,3 +509,10 @@ Local AI needs to be the norm (unix.foo)
 Running local models on an M4 with 24GB memory (jola.dev)
 Incident Report: CVE-2024-YIKES (nesbitt.io)
 Obsidian plugin was abused to deploy a remote access trojan (netsecops.io)
+
+Update: 2026-05-12 02:44:53.480489
+Postmortem: TanStack npm supply-chain compromise (tanstack.com)
+If AI writes your code, why use Python? (medium.com/nmitchem)
+Claude Platform on AWS (claude.com)
+UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) (ucla.edu)
+Show HN: A modern Music Player Daemon based on Rockbox firmware (github.com/tsirysndr)
