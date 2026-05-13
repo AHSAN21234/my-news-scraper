@@ -516,3 +516,10 @@ If AI writes your code, why use Python? (medium.com/nmitchem)
 Claude Platform on AWS (claude.com)
 UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) (ucla.edu)
 Show HN: A modern Music Player Daemon based on Rockbox firmware (github.com/tsirysndr)
+
+Update: 2026-05-13 02:50:22.791625
+Restore full BambuNetwork support for Bambu Lab printers (github.com/fulu-foundation)
+Googlebook (googlebook.google)
+My graduation cap runs Rust (ericswpark.com)
+Kraftwerk's radical 1976 track (bbc.com)
+How to make your text look futuristic (2016) (typesetinthefuture.com)
