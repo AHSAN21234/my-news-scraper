@@ -530,3 +530,10 @@ Linux gaming is faster because Windows APIs are becoming Linux kernel features (
 Setting up a free *.city.state.us locality domain (2025) (fredchan.org)
 A History of IDEs at Google (le-brun.eu)
 Chess puzzle I found in my dad's old book (ardoedo.it)
+
+Update: 2026-05-15 02:55:03.185192
+Removing the modem and GPS from my 2024 RAV4 hybrid (arkadiyt.com)
+A few words on DS4 (antirez.com)
+First public macOS kernel memory corruption exploit on Apple M5 (calif.io)
+RTX 5090 and M4 MacBook Air: Can It Game? (scottjg.com)
+New Nginx Exploit (github.com/depthfirstdisclosures)
