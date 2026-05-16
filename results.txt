@@ -537,3 +537,10 @@ A few words on DS4 (antirez.com)
 First public macOS kernel memory corruption exploit on Apple M5 (calif.io)
 RTX 5090 and M4 MacBook Air: Can It Game? (scottjg.com)
 New Nginx Exploit (github.com/depthfirstdisclosures)
+
+Update: 2026-05-16 02:41:22.853747
+'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens (kevinpatel.xyz)
+Erlang/OTP 29.0 (erlang.org)
+Project Gutenberg – keeps getting better (gutenberg.org)
+I believe there are entire companies right now under AI psychosis (twitter.com/mitchellh)
+The Zulip Foundation (zulip.com)
