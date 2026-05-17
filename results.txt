@@ -544,3 +544,10 @@ Erlang/OTP 29.0 (erlang.org)
 Project Gutenberg – keeps getting better (gutenberg.org)
 I believe there are entire companies right now under AI psychosis (twitter.com/mitchellh)
 The Zulip Foundation (zulip.com)
+
+Update: 2026-05-17 02:50:12.963682
+Zerostack – A Unix-inspired coding agent written in pure Rust (crates.io)
+Hosting a website on an 8-bit microcontroller (maurycyz.com)
+A nicer voltmeter clock (lcamtuf.substack.com)
+MCP Hello Page (hybridlogic.co.uk)
+OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens (openai.com)
