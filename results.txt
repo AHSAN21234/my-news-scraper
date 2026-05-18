@@ -551,3 +551,10 @@ Hosting a website on an 8-bit microcontroller (maurycyz.com)
 A nicer voltmeter clock (lcamtuf.substack.com)
 MCP Hello Page (hybridlogic.co.uk)
 OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens (openai.com)
+
+Update: 2026-05-18 03:27:01.637212
+GenCAD (gencad.github.io)
+There Is No 'Hard Problem of Consciousness' (noemamag.com)
+I turned a $80 RK3562 Android tablet into a Debian Linux workstation (github.com/tech4bot)
+Ask an Astronaut: 333 hours of Q&A footage with astronauts (issinrealtime.org)
+Prolog Coding Horror (metalevel.at)
