@@ -565,3 +565,10 @@ Anthropic co-founder to present AI encyclical alongside Pope Leo XIV (vaticannew
 Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions (carlini.com)
 Anthropic acquires Stainless (anthropic.com)
 We stopped AI bot spam in our GitHub repo using Git's –author flag (archestra.ai)
+
+Update: 2026-05-20 02:56:31.873794
+Railway Blocked by Google Cloud (railway.com)
+Gemini 3.5 Flash (blog.google)
+I’ve built a virtual museum with nearly every operating system you can think of (virtualosmuseum.org)
+Google changes its search box (blog.google)
+Remove–AI–Watermarks – CLI and library for removing AI watermarks from images (github.com/wiltodelta)
