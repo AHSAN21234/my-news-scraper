@@ -579,3 +579,10 @@ GitHub confirms breach of 3,800 repos via malicious VSCode extension (bleepingco
 What is Demand Coop and why tech workers should join one (cahootzcoops.com)
 Show HN: I reverse engineered Apple's video wallpapers (github.com/kageroumado)
 DOS Zone (dos.zone)
+
+Update: 2026-05-22 03:25:04.184058
+Logging Off (user8.bearblog.dev)
+Project Hail Mary – Stellar Navigation Chart (valhovey.github.io)
+Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD (crocidb.com)
+Using Kagi Search with Low Vision (veroniiiica.com)
+Uv is fantastic, but its package management UX is a mess (loopwerk.io)
