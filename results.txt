@@ -586,3 +586,10 @@ Project Hail Mary – Stellar Navigation Chart (valhovey.github.io)
 Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD (crocidb.com)
 Using Kagi Search with Low Vision (veroniiiica.com)
 Uv is fantastic, but its package management UX is a mess (loopwerk.io)
+
+Update: 2026-05-23 02:45:19.786746
+Shipping a laptop to a refugee camp in Uganda (notesbylex.com)
+Why Japanese companies do so many different things (davidoks.blog)
+Project Glasswing: An Initial Update (anthropic.com)
+Is AI Profitable Yet? (isaiprofitable.com)
+Blood Pumping Mechanism of the Hoof (extension.org)
