@@ -593,3 +593,10 @@ Why Japanese companies do so many different things (davidoks.blog)
 Project Glasswing: An Initial Update (anthropic.com)
 Is AI Profitable Yet? (isaiprofitable.com)
 Blood Pumping Mechanism of the Hoof (extension.org)
+
+Update: 2026-05-24 02:57:52.813516
+Microsoft open-sources "the earliest DOS source code discovered to date" (arstechnica.com)
+Wake up! 16b (111mb.de)
+Scammers are abusing an internal Microsoft account to send spam links (techcrunch.com)
+Time to talk about my writerdeck (veronicaexplains.net)
+My I3-Emacs Integration (khz.ac)
