@@ -600,3 +600,10 @@ Wake up! 16b (111mb.de)
 Scammers are abusing an internal Microsoft account to send spam links (techcrunch.com)
 Time to talk about my writerdeck (veronicaexplains.net)
 My I3-Emacs Integration (khz.ac)
+
+Update: 2026-05-25 03:33:50.538995
+Show HN: Audiomass – a free, open-source multitrack audio editor for the web (audiomass.co)
+DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost (esengine.github.io)
+A fundamental principle of aeronautical engineering has been overturned (wired.com)
+White Rabbit – sub-nanosecond synchronization for large distributed systems (ohwr.org)
+Memory has grown to nearly two-thirds of AI chip component costs (epoch.ai)
