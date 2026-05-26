@@ -607,3 +607,10 @@ DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost (
 A fundamental principle of aeronautical engineering has been overturned (wired.com)
 White Rabbit – sub-nanosecond synchronization for large distributed systems (ohwr.org)
 Memory has grown to nearly two-thirds of AI chip component costs (epoch.ai)
+
+Update: 2026-05-26 02:53:22.342779
+Using AI to write better code more slowly (nolanlawson.com)
+Taking a walk may lead to more creativity than sitting, study finds (2014) (apa.org)
+Norway's 2 petabytes of Huawei flash storage and LLM training (blocksandfiles.com)
+How Shamir's Secret Sharing Works (ente.com)
+Exit IP VPN servers mitigation rollout (mullvad.net)
