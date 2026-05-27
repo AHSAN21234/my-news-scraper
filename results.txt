@@ -614,3 +614,10 @@ Taking a walk may lead to more creativity than sitting, study finds (2014) (apa.
 Norway's 2 petabytes of Huawei flash storage and LLM training (blocksandfiles.com)
 How Shamir's Secret Sharing Works (ente.com)
 Exit IP VPN servers mitigation rollout (mullvad.net)
+
+Update: 2026-05-27 03:32:39.763440
+Chemistry behind the Garden Grove chemical tank (science.org)
+Cloudflare Flagship (cloudflare.com)
+Where does next-token prediction leave us? (rdi.sh)
+A few interesting modern pixel fonts (aresluna.org)
+I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline (djspeckhals.com)
