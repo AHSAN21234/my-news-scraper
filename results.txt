@@ -621,3 +621,10 @@ Cloudflare Flagship (cloudflare.com)
 Where does next-token prediction leave us? (rdi.sh)
 A few interesting modern pixel fonts (aresluna.org)
 I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline (djspeckhals.com)
+
+Update: 2026-05-28 02:52:17.080325
+Can we have the day off? (mlsu.io)
+YouTube to automatically label AI-generated videos (blog.youtube)
+I think Anthropic and OpenAI have found product-market fit (simonwillison.net)
+What Apple and Google are doing to push notifications (jacquescorbytuech.com)
+SimCity 3k in 4k (2025) (thran.uk)
