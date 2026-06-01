@@ -649,3 +649,10 @@ Domain expertise has always been the real moat (brethorsting.com)
 Shantell Sans (2023) (shantellsans.com)
 Racket v9.2 is now available (racket-lang.org)
 I found a seashell in the middle of the desert (github.com/hawzen)
+
+Update: 2026-06-01 03:45:39.093667
+Shift from a Leader-Follower to a Leader-Leader Approach (practicalengineering.management)
+Cloudflare Turnstile requiring fingerprintable WebGL (hacktivis.me)
+1-Bit Bonsai Image 4B Image Generation for Local Devices (prismml.com)
+New Beam Spring Keyboards (modelfkeyboards.com)
+Dav2d (jbkempf.com)
