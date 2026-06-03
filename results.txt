@@ -663,3 +663,10 @@ The newest Instagram “exploit” is the goofiest I've seen (0xsid.com)
 Can the stockmarket swallow Anthropic, SpaceX and OpenAI? (economist.com)
 How is Groq raising more money? (zach.be)
 OpenAI frontier models and Codex are now available on AWS (openai.com)
+
+Update: 2026-06-03 03:50:42.730195
+1-Click GitHub Token Stealing via a VSCode Bug (ammaraskar.com)
+Use your Nvidia GPU's VRAM as swap space on Linux (github.com/c0dejedi)
+MAI-Code-1-Flash (microsoft.ai)
+CT scans of BYD car parts (lumafield.com)
+Agentic Mfw (agenticmotherfucking.website)
