@@ -670,3 +670,10 @@ Use your Nvidia GPU's VRAM as swap space on Linux (github.com/c0dejedi)
 MAI-Code-1-Flash (microsoft.ai)
 CT scans of BYD car parts (lumafield.com)
 Agentic Mfw (agenticmotherfucking.website)
+
+Update: 2026-06-04 03:43:09.911259
+U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse (yale.edu)
+Elixir v1.20: Now a gradually typed language (elixir-lang.org)
+I built a vulnerable app and spent $1,500 seeing if LLMs could hack it (kasra.blog)
+Gemma 4 12B: A unified, encoder-free multimodal model (blog.google)
+"They're made out of weights" (maxleiter.com)
