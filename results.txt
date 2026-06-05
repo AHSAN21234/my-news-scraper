@@ -677,3 +677,10 @@ Elixir v1.20: Now a gradually typed language (elixir-lang.org)
 I built a vulnerable app and spent $1,500 seeing if LLMs could hack it (kasra.blog)
 Gemma 4 12B: A unified, encoder-free multimodal model (blog.google)
 "They're made out of weights" (maxleiter.com)
+
+Update: 2026-06-05 03:31:24.397837
+Meta enables ADB on deprecated Portal devices [video] (fb.watch)
+Do transformers need three projections? Systematic study of QKV variants (arxiv.org)
+Anthropic's open-source framework for AI-powered vulnerability discovery (github.com/anthropics)
+Open Code Review – An AI-powered code review CLI tool (github.com/alibaba)
+VoidZero Is Joining Cloudflare (cloudflare.com)
