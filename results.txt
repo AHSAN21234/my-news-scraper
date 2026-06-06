@@ -684,3 +684,10 @@ Do transformers need three projections? Systematic study of QKV variants (arxiv.
 Anthropic's open-source framework for AI-powered vulnerability discovery (github.com/anthropics)
 Open Code Review – An AI-powered code review CLI tool (github.com/alibaba)
 VoidZero Is Joining Cloudflare (cloudflare.com)
+
+Update: 2026-06-06 02:52:15.498406
+The intracies of modern camera lens repair (2024) (salvagedcircuitry.com)
+pg_durable: Microsoft open sources in-database durable execution (github.com/microsoft)
+Astronauts told to return to ISS after sheltering over air leak repairs (bbc.com)
+Show HN: ABC Classic 100 Rankings visualised (gotski.workers.dev)
+New method turns ocean water into drinking water, without waste (rochester.edu)
