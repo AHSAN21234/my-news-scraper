@@ -691,3 +691,10 @@ pg_durable: Microsoft open sources in-database durable execution (github.com/mic
 Astronauts told to return to ISS after sheltering over air leak repairs (bbc.com)
 Show HN: ABC Classic 100 Rankings visualised (gotski.workers.dev)
 New method turns ocean water into drinking water, without waste (rochester.edu)
+
+Update: 2026-06-07 03:37:03.922052
+Field of clones: How horse replicas came to dominate polo (knowablemagazine.org)
+Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering (arxiv.org)
+Harness engineering: Leveraging Codex in an agent-first world (openai.com)
+Valve P2P networking broken for more than 2 months (github.com/valvesoftware)
+Ntsc-rs – open-source video emulation of analog TV and VHS artifacts (ntsc.rs)
