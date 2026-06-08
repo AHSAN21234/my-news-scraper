@@ -698,3 +698,10 @@ Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering (a
 Harness engineering: Leveraging Codex in an agent-first world (openai.com)
 Valve P2P networking broken for more than 2 months (github.com/valvesoftware)
 Ntsc-rs – open-source video emulation of analog TV and VHS artifacts (ntsc.rs)
+
+Update: 2026-06-08 03:42:35.657513
+APC–2 – A professional record cutter for producing original playback discs (teenage.engineering)
+DeepSeek V4 Pro beats GPT-5.5 Pro on precision (runtimewire.com)
+The Smallest Brain You Can Build: A Perceptron in Python (ranpara.net)
+New drug 'functionally cures' many hepatitis B virus infections (science.org)
+Building from zero after addiction, prison, and a felony (gavinray97.github.io)
