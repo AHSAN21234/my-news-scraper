@@ -705,3 +705,10 @@ DeepSeek V4 Pro beats GPT-5.5 Pro on precision (runtimewire.com)
 The Smallest Brain You Can Build: A Perceptron in Python (ranpara.net)
 New drug 'functionally cures' many hepatitis B virus infections (science.org)
 Building from zero after addiction, prison, and a felony (gavinray97.github.io)
+
+Update: 2026-06-09 02:51:22.623958
+Apple reveals new AI architecture built around Google Gemini models (macrumors.com)
+Siri AI (apple.com)
+Show HN: Performative-UI – A react component library of design tropes (vorpus.github.io)
+xAI is looking more like a datacentre REIT than a frontier lab (martinalderson.com)
+MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second (xiaomi.com)
