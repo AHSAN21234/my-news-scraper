@@ -712,3 +712,10 @@ Siri AI (apple.com)
 Show HN: Performative-UI – A react component library of design tropes (vorpus.github.io)
 xAI is looking more like a datacentre REIT than a frontier lab (martinalderson.com)
 MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second (xiaomi.com)
+
+Update: 2026-06-10 03:28:33.533053
+macOS Container Machines (github.com/apple)
+Claude Fable 5 (anthropic.com)
+Rich Sutton on AI creativity and discovery (twitter.com/richardssutton)
+Upcoming breaking changes for npm v12 (github.blog)
+German ruling declares Google liable for false answers in AI Overviews (the-decoder.com)
