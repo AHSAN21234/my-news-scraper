@@ -719,3 +719,10 @@ Claude Fable 5 (anthropic.com)
 Rich Sutton on AI creativity and discovery (twitter.com/richardssutton)
 Upcoming breaking changes for npm v12 (github.blog)
 German ruling declares Google liable for false answers in AI Overviews (the-decoder.com)
+
+Update: 2026-06-11 03:40:35.419834
+AI agent runs amok in Fedora and elsewhere (lwn.net)
+Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable (techcrunch.com)
+πFS (github.com/philipl)
+Anthropic requires 30 day data retention for Fable and Mythos (claude.com)
+Sequoyah’s syllabary created a written language for the Cherokee (smithsonianmag.com)
