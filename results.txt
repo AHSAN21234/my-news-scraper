@@ -726,3 +726,10 @@ Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable
 πFS (github.com/philipl)
 Anthropic requires 30 day data retention for Fable and Mythos (claude.com)
 Sequoyah’s syllabary created a written language for the Cherokee (smithsonianmag.com)
+
+Update: 2026-06-12 03:40:22.062764
+Nobody ever gets credit for fixing problems that never happened (2001) [pdf] (web.mit.edu)
+Claude Fable is relentlessly proactive (simonwillison.net)
+Show HN: Homebrew 6.0.0 (brew.sh)
+Show HN: FablePool – pool money behind a prompt, and Fable builds it in public (fablepool.com)
+If you are asking for human attention, demonstrate human effort (tombedor.dev)
