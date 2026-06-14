@@ -740,3 +740,10 @@ US Government directive to suspend access to Fable 5 and Mythos 5 (anthropic.com
 We've suspended access to Claude Mythos 5 and Claude Fable 5 (claude.com)
 Renault: Electric motors with no rare earths (renaultgroup.com)
 CRISPR tech selectively shreds cancer cells, including "undruggable" cancers (innovativegenomics.org)
+
+Update: 2026-06-14 03:43:46.719263
+The Redistribution of Housing Wealth Caused by Rent Control [pdf] (rhawa.org)
+10th Gen Honda Civic Updates Are Signed with AOSP Test Keys (juniperspring.org)
+Noise infusion banned from statistical products published by Census Bureau (desfontain.es)
+GLM 5.2 Is Out (twitter.com/jietang)
+Every Frame Perfect (tonsky.me)
