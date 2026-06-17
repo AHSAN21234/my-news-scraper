@@ -761,3 +761,10 @@ A backdoor in a LinkedIn job offer (roman.pt)
 Banned Book Library in a Wi-Fi Smart Light Bulb (richardosgood.com)
 Iroh 1.0 (iroh.computer)
 Amazon Announces Multibillion-Dollar Data Center in Missouri (narracomm.com)
+
+Update: 2026-06-17 03:51:53.935137
+GrapheneOS has been ported to Android 17 (grapheneos.org)
+Running local models is good now (vickiboykis.com)
+Humiliating IIS servers for fun and jail time (mll.sh)
+SpaceX to buy Cursor for $60B (reuters.com)
+Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More (stephenwolfram.com)
