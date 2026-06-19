@@ -775,3 +775,10 @@ Lore – Open source version control system designed for scalability (lore.org)
 Taxonomy of the Occlupanida (parasitoids on bread bag tags) (horg.com)
 US holds off blacklisting DeepSeek, more than 100 firms deemed security risks (reuters.com)
 Storied Colors – a catalogue of named colors (storiedcolors.com)
+
+Update: 2026-06-19 04:02:07.673221
+To study how chips work, MIT researchers built their own operating system (news.mit.edu)
+How Japan's railways stayed one while splitting apart (arun.is)
+Zero-Touch OAuth for MCP (modelcontextprotocol.io)
+Datasette Apps: Host custom HTML applications inside Datasette (simonwillison.net)
+I found 10k GitHub repositories distributing Trojan malware (orchidfiles.com)
