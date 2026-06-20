@@ -782,3 +782,10 @@ How Japan's railways stayed one while splitting apart (arun.is)
 Zero-Touch OAuth for MCP (modelcontextprotocol.io)
 Datasette Apps: Host custom HTML applications inside Datasette (simonwillison.net)
 I found 10k GitHub repositories distributing Trojan malware (orchidfiles.com)
+
+Update: 2026-06-20 03:25:37.653809
+How to feed a dictator (theguardian.com)
+Think of the children: How to force real ID for all internet traffic (2023) (nochan.net)
+There are no instances in ATProto (overreacted.io)
+Norway imposes near ban on AI in elementary school (reuters.com)
+Surprising Economics of Load-Balanced Systems (brooker.co.za)
