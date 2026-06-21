@@ -789,3 +789,10 @@ Think of the children: How to force real ID for all internet traffic (2023) (noc
 There are no instances in ATProto (overreacted.io)
 Norway imposes near ban on AI in elementary school (reuters.com)
 Surprising Economics of Load-Balanced Systems (brooker.co.za)
+
+Update: 2026-06-21 03:55:26.289857
+Renting a sewing machine from the library (bbc.com)
+Epoll vs. io_uring in Linux (sibexi.co)
+Show HN: TownSquare, a tiny presence layer for websites (cauenapier.com)
+Developers don't understand CORS (2019) (fosterelli.co)
+Loupe – A iOS app that raises awareness about what native apps can see (github.com/mysk-research)
