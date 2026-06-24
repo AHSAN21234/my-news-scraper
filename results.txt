@@ -810,3 +810,10 @@ Steam Machine launches today (steampowered.com)
 Runing GLM-5.2 on local hardware (unsloth.ai)
 In Praise of Memcached (jchri.st)
 Polymarket's viral videos showed people winning big, but the bets were fake (arstechnica.com)
+
+Update: 2026-06-24 02:56:44.496072
+Vulnerability reports are not special anymore (filippo.io)
+Jerry's Map (jerrysmap.com)
+A man was gifted his dream car by Kevin Mitnick, who he helped put in prison (thedrive.com)
+FUTO Swipe – A new swipe typing model (futo.tech)
+In memory of the man who put red and green squiggles under words (devblogs.microsoft.com/oldnewthing)
