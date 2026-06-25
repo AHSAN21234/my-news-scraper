@@ -817,3 +817,10 @@ Jerry's Map (jerrysmap.com)
 A man was gifted his dream car by Kevin Mitnick, who he helped put in prison (thedrive.com)
 FUTO Swipe – A new swipe typing model (futo.tech)
 In memory of the man who put red and green squiggles under words (devblogs.microsoft.com/oldnewthing)
+
+Update: 2026-06-25 02:56:13.764331
+LuaJIT 3.0 proposed syntax extensions (github.com/luajit)
+OpenAI unveils its first custom chip, built by Broadcom (techcrunch.com)
+Bible as RAG Database (crosscanon.com)
+Blogging can just be stating the obvious (jim-nielsen.com)
+Anthropic says Alibaba illicitly extracted Claude AI model capabilities (reuters.com)
