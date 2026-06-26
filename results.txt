@@ -824,3 +824,10 @@ OpenAI unveils its first custom chip, built by Broadcom (techcrunch.com)
 Bible as RAG Database (crosscanon.com)
 Blogging can just be stating the obvious (jim-nielsen.com)
 Anthropic says Alibaba illicitly extracted Claude AI model capabilities (reuters.com)
+
+Update: 2026-06-26 03:26:11.767321
+AI children's books, body horror edition (lcamtuf.substack.com)
+Om Malik has died (om.co)
+Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line (bloomberg.com)
+An entire Herculaneum scroll has been read for the first time (scrollprize.org)
+Framework's 10G Ethernet module exposes USB-C's complexity (jeffgeerling.com)
