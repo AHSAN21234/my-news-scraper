@@ -831,3 +831,10 @@ Om Malik has died (om.co)
 Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line (bloomberg.com)
 An entire Herculaneum scroll has been read for the first time (scrollprize.org)
 Framework's 10G Ethernet module exposes USB-C's complexity (jeffgeerling.com)
+
+Update: 2026-06-27 02:50:46.923048
+Previewing GPT‑5.6 Sol: a next-generation model (openai.com)
+Why does kinetic energy increase quadratically, not linearly, with speed? (2011) (physics.stackexchange.com)
+Show HN: Hacker News on a Train Station Style Flip Board (quickish.space)
+A C++ implementation of a fast hash map and hash set using hopscotch hashing (github.com/tessil)
+AI in mathematics is forcing big questions (ieee.org)
