@@ -838,3 +838,10 @@ Why does kinetic energy increase quadratically, not linearly, with speed? (2011)
 Show HN: Hacker News on a Train Station Style Flip Board (quickish.space)
 A C++ implementation of a fast hash map and hash set using hopscotch hashing (github.com/tessil)
 AI in mathematics is forcing big questions (ieee.org)
+
+Update: 2026-06-28 03:32:50.404242
+Marfa Public Radio Puts You to Sleep (marfapublicradio.org)
+Show HN: Decomp Academy – Learn to decompile GameCube games into matching C (decomp-academy.dev)
+AMD Strix Halo RDMA Cluster Setup Guide (github.com/kyuz0)
+Choosing a Public DNS Resolver (evilbit.de)
+Anonymous GitHub account mass-dropping undisclosed 0-days (github.com/bikini)
