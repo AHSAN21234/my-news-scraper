@@ -845,3 +845,10 @@ Show HN: Decomp Academy – Learn to decompile GameCube games into matching C (d
 AMD Strix Halo RDMA Cluster Setup Guide (github.com/kyuz0)
 Choosing a Public DNS Resolver (evilbit.de)
 Anonymous GitHub account mass-dropping undisclosed 0-days (github.com/bikini)
+
+Update: 2026-06-29 03:37:37.831437
+GLM 5.2 beats Claude in our benchmarks (semgrep.dev)
+Historical memory prices 1960-2026 (stanford.edu)
+Better Images of AI (betterimagesofai.org)
+5k menus from the New York Public Library’s Buttolph Collection (1880-1920) (pudding.cool)
+Knowledge Distillation of Black-Box Large Language Models (2024) (arxiv.org)
