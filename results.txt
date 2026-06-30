@@ -852,3 +852,10 @@ Historical memory prices 1960-2026 (stanford.edu)
 Better Images of AI (betterimagesofai.org)
 5k menus from the New York Public Library’s Buttolph Collection (1880-1920) (pudding.cool)
 Knowledge Distillation of Black-Box Large Language Models (2024) (arxiv.org)
+
+Update: 2026-06-30 03:24:25.830306
+Qwen 3.6 27B is the sweet spot for local development (quesma.com)
+.self: A new top-level domain designed to support self-hosting (onmy.cloud)
+Free the Icons (rogueamoeba.com)
+Memory Safe Context Switching (longjmp, setjmp) in Fil-C (fil-c.org)
+Exploring PDP-1 Lisp (1960) (obsolescence.dev)
