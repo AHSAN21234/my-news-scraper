@@ -859,3 +859,10 @@ Qwen 3.6 27B is the sweet spot for local development (quesma.com)
 Free the Icons (rogueamoeba.com)
 Memory Safe Context Switching (longjmp, setjmp) in Fil-C (fil-c.org)
 Exploring PDP-1 Lisp (1960) (obsolescence.dev)
+
+Update: 2026-07-01 03:33:15.816192
+Claude Sonnet 5 (anthropic.com)
+Claude Code is steganographically marking requests (thereallo.dev)
+Google copybara: moving code between repositories (github.com/google)
+From Julia to Rust: a differentiable tensor stack for scientific computing (tensor4all.org)
+Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 (twitter.com/anthropicai)
