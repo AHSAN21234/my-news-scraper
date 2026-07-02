@@ -866,3 +866,10 @@ Claude Code is steganographically marking requests (thereallo.dev)
 Google copybara: moving code between repositories (github.com/google)
 From Julia to Rust: a differentiable tensor stack for scientific computing (tensor4all.org)
 Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 (twitter.com/anthropicai)
+
+Update: 2026-07-02 02:57:43.536203
+ZCode – Harness for GLM-5.2 (z.ai)
+Show HN: Searchable directory of 22k+ products from worker-owned co-ops (workerowned.info)
+Building an Open-Source Robot Vacuum – Meet Oomwoo (makerspet.com)
+For first time, a cell built from scratch grows and divides (quantamagazine.org)
+Global review confirms mRNA vaccines are safe, effective and full of promise  (ubc.ca)
