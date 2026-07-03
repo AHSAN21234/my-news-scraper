@@ -873,3 +873,10 @@ Show HN: Searchable directory of 22k+ products from worker-owned co-ops (workero
 Building an Open-Source Robot Vacuum – Meet Oomwoo (makerspet.com)
 For first time, a cell built from scratch grows and divides (quantamagazine.org)
 Global review confirms mRNA vaccines are safe, effective and full of promise  (ubc.ca)
+
+Update: 2026-07-03 02:41:40.401148
+Virginia bans sale of geolocation data (hunton.com)
+An American Privacy Emergency (scottaaronson.blog)
+crustc: entirety of `rustc`, translated to C (github.com/fractalfir)
+Right to Local Intelligence (righttointelligence.org)
+GitHub is proud to announce that you can now obtain your public repo on CD-ROM (cloud.microsoft)
