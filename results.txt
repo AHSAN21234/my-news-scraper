@@ -880,3 +880,10 @@ An American Privacy Emergency (scottaaronson.blog)
 crustc: entirety of `rustc`, translated to C (github.com/fractalfir)
 Right to Local Intelligence (righttointelligence.org)
 GitHub is proud to announce that you can now obtain your public repo on CD-ROM (cloud.microsoft)
+
+Update: 2026-07-04 02:37:47.627256
+Giant trees have no trouble pumping water to top branches (exeter.ac.uk)
+Leanstral 1.5: Proof Abundance for All (mistral.ai)
+GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell (wafer.ai)
+Steam Controller Auto-Charge – pilot to magnetic charging puck using CV (github.com/fossprime)
+MSI Center – How to gain SYSTEM privileges in seconds (mrbruh.com)
