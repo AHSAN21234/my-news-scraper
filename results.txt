@@ -887,3 +887,10 @@ Leanstral 1.5: Proof Abundance for All (mistral.ai)
 GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell (wafer.ai)
 Steam Controller Auto-Charge – pilot to magnetic charging puck using CV (github.com/fossprime)
 MSI Center – How to gain SYSTEM privileges in seconds (mrbruh.com)
+
+Update: 2026-07-05 02:48:30.524135
+Scientists reverse brain aging, with a nasal spray (tamu.edu)
+Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable (github.com/ammaarreshi)
+GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance (github.com/openai)
+Google Books (or similar) all book scans – $200k bounty (2025) (annas-archive.gl)
+Jellyfish can heal wounds in minutes. Scientists want their secrets (mbl.edu)
