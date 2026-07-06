@@ -894,3 +894,10 @@ Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable 
 GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance (github.com/openai)
 Google Books (or similar) all book scans – $200k bounty (2025) (annas-archive.gl)
 Jellyfish can heal wounds in minutes. Scientists want their secrets (mbl.edu)
+
+Update: 2026-07-06 02:54:49.684933
+GPT-5.6 Sol Ultra will be in Codex (twitter.com/thsottiaux)
+OpenPrinter (opentools.studio)
+Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills (readtheline.ca)
+Has_not_been_viewed_much (iamwillwang.com)
+Organic Maps (organicmaps.app)
