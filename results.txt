@@ -901,3 +901,10 @@ OpenPrinter (opentools.studio)
 Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills (readtheline.ca)
 Has_not_been_viewed_much (iamwillwang.com)
 Organic Maps (organicmaps.app)
+
+Update: 2026-07-07 02:49:35.810098
+Fable turned reMarkable into Tom Riddle's diary from Harry Potter (github.com/maximerivest)
+How to sequence your own DNA at home (bradleywoolf.com)
+OpenWrt One – Open Hardware Router (openwrt.org)
+CoMaps – FOSS Offline Maps (comaps.app)
+GLM 5.2 and the coming AI margin collapse (martinalderson.com)
