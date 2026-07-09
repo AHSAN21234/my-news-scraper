@@ -915,3 +915,10 @@ Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro (ariya.io)
 Tenda firmware (multiple versions) contains hidden authentication backdoor (cert.org)
 Canada's only watchmaking school still ticking after 80 years (cbc.ca)
 StreetComplete: Fixing OpenStreetMap, one tiny quest at a time (streetcomplete.app)
+
+Update: 2026-07-09 02:41:44.048608
+John Deere owners will get the right to repair equipment under FTC settlement (apnews.com)
+I Think I Have LLM Burnout (alecscollon.com)
+Separating signal from noise in coding evaluations (openai.com)
+Chatto is now open source (hmans.dev)
+Cloudflare Drop (cloudflare.com)
