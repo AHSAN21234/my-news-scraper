@@ -922,3 +922,10 @@ I Think I Have LLM Burnout (alecscollon.com)
 Separating signal from noise in coding evaluations (openai.com)
 Chatto is now open source (hmans.dev)
 Cloudflare Drop (cloudflare.com)
+
+Update: 2026-07-10 02:44:39.961350
+Show HN: Getting GLM 5.2 running on my slow computer (github.com/justvugg)
+EU Parliament greenlights Chat Control 1.0 (patrick-breyer.de)
+Focus (boz.com)
+GPT-5.6 (openai.com)
+Show HN: 18 Words (18words.com)
