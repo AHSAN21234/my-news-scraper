@@ -936,3 +936,10 @@ QuadRF can spot drones and see WiFi through my wall (jeffgeerling.com)
 Apple sues OpenAI, accuses ex-employees of stealing trade secrets (9to5mac.com)
 An iroh powered smart fan (iroh.computer)
 GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf] (cdn.openai.com)
+
+Update: 2026-07-12 02:29:02.648125
+Mesh LLM: distributed AI computing on iroh (iroh.computer)
+A dock that wakes up reliably (fabiensanglard.net)
+Show HN: Ant – A JavaScript runtime and ecosystem (antjs.org)
+RISCBoy is an open-source portable games console, designed from scratch (github.com/wren6991)
+A pure scheme web programming tool (goeteia.dev)
