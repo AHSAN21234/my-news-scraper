@@ -950,3 +950,10 @@ GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years 
 Cyberpunk Comics, Manga and Graphic Novels (shellzine.net)
 Designing and assembling my first PCB (vilkeliskis.com)
 Tiny Emulators (floooh.github.io)
+
+Update: 2026-07-14 02:10:03.494220
+The Git history command deserves more attention (lalitm.com)
+Success may not matter if you aren't doing what you love (12gramsofcarbon.com)
+Building and shipping Mac and iOS apps without opening Xcode (scottwillsey.com)
+Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor (get-inscribe.com)
+An Englishwoman who sketched India before photography took hold (bbc.com)
