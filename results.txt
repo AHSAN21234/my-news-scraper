@@ -957,3 +957,10 @@ Success may not matter if you aren't doing what you love (12gramsofcarbon.com)
 Building and shipping Mac and iOS apps without opening Xcode (scottwillsey.com)
 Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor (get-inscribe.com)
 An Englishwoman who sketched India before photography took hold (bbc.com)
+
+Update: 2026-07-15 02:08:01.884286
+Vancouver PD website features Quick Escape button that wipes itself from history (vpd.ca)
+TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access (tailscale.com)
+Bonsai 27B: A 27B-Class model that runs on a phone (prismml.com)
+Dependabot version updates introduce default package cooldown (github.blog)
+The Tower Keeps Rising (pocoo.org)
