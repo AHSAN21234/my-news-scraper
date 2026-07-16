@@ -964,3 +964,10 @@ TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access (
 Bonsai 27B: A 27B-Class model that runs on a phone (prismml.com)
 Dependabot version updates introduce default package cooldown (github.blog)
 The Tower Keeps Rising (pocoo.org)
+
+Update: 2026-07-16 02:21:49.143008
+Inkling: Our Open-Weights Model (thinkingmachines.ai)
+SQLite should have (Rust-style) editions (mort.coffee)
+Grok Build is open source (github.com/xai-org)
+G# – A modern .NET language with Go, Kotlin, and Swift ergonomics (davidobando.github.io)
+Governments, companies, nonprofits should invest in free, open source AI [pdf] (siegelendowment.org)
