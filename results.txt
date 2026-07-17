@@ -971,3 +971,10 @@ SQLite should have (Rust-style) editions (mort.coffee)
 Grok Build is open source (github.com/xai-org)
 G# – A modern .NET language with Go, Kotlin, and Swift ergonomics (davidobando.github.io)
 Governments, companies, nonprofits should invest in free, open source AI [pdf] (siegelendowment.org)
+
+Update: 2026-07-17 02:24:38.080350
+Kimi K3: Open Frontier Intelligence (kimi.com)
+Microsoft Comic Chat is now open source (opensource.microsoft.com)
+LM Studio Bionic: the AI agent for open models (lmstudio.ai)
+Decoy Font (mixfont.com)
+M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida (usgs.gov)
