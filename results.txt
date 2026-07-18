@@ -978,3 +978,10 @@ Microsoft Comic Chat is now open source (opensource.microsoft.com)
 LM Studio Bionic: the AI agent for open models (lmstudio.ai)
 Decoy Font (mixfont.com)
 M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida (usgs.gov)
+
+Update: 2026-07-18 02:09:14.995579
+Kaiser nurses say AI, workplace surveillance are making their jobs, care worse (localnewsmatters.org)
+AWS: Inaccurate Estimated Billing Data – $1.7 billion
+Thanks HN for 15 years of support and helping me find my life's work
+The Zilog Z80 has turned 50 (goliath32.com)
+The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold (isomorphiclabs.com)
