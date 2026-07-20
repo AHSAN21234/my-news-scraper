@@ -992,3 +992,10 @@ Speech Recognition and TTS in less than 500kb (github.com/moonshine-ai)
 Better and Cheaper Than IPTV (github.com/stupside)
 Classic Amiga titles, free to download (downer.tech)
 GPT-5.6 used a prompt to close a 30-year gap in convex optimization (reddit.com)
+
+Update: 2026-07-20 02:41:41.183891
+Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s
+Claude Code uses Bun written in Rust now (simonwillison.net)
+The Zen of Parallel Programming (smolnero.com)
+What I learned selling 2,500 MIDI recorders: Hardware is not so hard (chipweinberger.com)
+Minecraft: Java Edition now uses SDL3 (minecraft.net)
