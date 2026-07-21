@@ -999,3 +999,10 @@ Claude Code uses Bun written in Rust now (simonwillison.net)
 The Zen of Parallel Programming (smolnero.com)
 What I learned selling 2,500 MIDI recorders: Hardware is not so hard (chipweinberger.com)
 Minecraft: Java Edition now uses SDL3 (minecraft.net)
+
+Update: 2026-07-21 02:25:04.517927
+Who's afraid of Chinese models? (stratechery.com)
+Kimi Work (kimi.com)
+Jellyfin founder Andrew leaves team (jellyfin.org)
+Jelly UI: Soft-body physics for native HTML form controls (jelly-ui.com)
+Human mathematicians are being outcounterexampled (xenaproject.wordpress.com)
