@@ -1006,3 +1006,10 @@ Kimi Work (kimi.com)
 Jellyfin founder Andrew leaves team (jellyfin.org)
 Jelly UI: Soft-body physics for native HTML form controls (jelly-ui.com)
 Human mathematicians are being outcounterexampled (xenaproject.wordpress.com)
+
+Update: 2026-07-22 02:23:39.151820
+OpenAI and Hugging Face address security incident during model evaluation (openai.com)
+Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA (fireworks.ai)
+FreeInk: Open ecosystem for e-readers (freeink.org)
+A digestion of the Jacobian conjecture counterexample (terrytao.wordpress.com)
+Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber (blog.google)
