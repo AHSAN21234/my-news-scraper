@@ -1020,3 +1020,10 @@ Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample
 Run large language models at home, BitTorrent‑style (petals.dev)
 Quality non-fiction books are the antithesis of AI slop (resobscura.substack.com)
 GigaToken: ~1000x faster Language model tokenization (github.com/marcelroed)
+
+Update: 2026-07-24 02:26:09.863296
+98.css (jdan.github.io)
+Writing by hand is good for your brain (nealstephenson.substack.com)
+The Visual 6502 (visual6502.org)
+Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models
+The Beam Engine (glinscott.github.io)
