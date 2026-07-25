@@ -1027,3 +1027,10 @@ Writing by hand is good for your brain (nealstephenson.substack.com)
 The Visual 6502 (visual6502.org)
 Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models
 The Beam Engine (glinscott.github.io)
+
+Update: 2026-07-25 02:24:17.261510
+Claude Opus 5 (anthropic.com)
+Postgres LISTEN/NOTIFY actually scales (dbos.dev)
+Sperm Whales blow bubbles to achieve restful, vertical sleep (st-andrews.ac.uk)
+Show HN: I simulated closing the Strait of Hormuz on real oil trade data (staffinganalytics.io)
+My security camera shipped a GitHub admin token in its login page (hhh.hn)
