@@ -1041,3 +1041,10 @@ Systems and Delays (janiczek.cz)
 Clinical failure rates over the decades: yikes (science.org)
 Cloudflare's new AI traffic options for customers (cloudflare.com)
 GM Backs Sodium Ion Batteries for U.S. Grid Storage (ieee.org)
+
+Update: 2026-07-27 02:38:33.709876
+PGSimCity - How PostgreSQL Works (nikolays.github.io)
+Show HN: Physically accurate black hole you can put in your room (blackhole.plav.in)
+Decker, a platform that builds on the legacy of Hypercard and classic macOS (beyondloom.com)
+We have proof automation now (imperialviolet.org)
+French firefighters face 'pyrocumulonimbus' for first time (france24.com)
