@@ -1048,3 +1048,10 @@ Show HN: Physically accurate black hole you can put in your room (blackhole.plav
 Decker, a platform that builds on the legacy of Hypercard and classic macOS (beyondloom.com)
 We have proof automation now (imperialviolet.org)
 French firefighters face 'pyrocumulonimbus' for first time (france24.com)
+
+Update: 2026-07-28 02:12:53.525074
+Our position on open-weights models (anthropic.com)
+Benchmarking Opus 5 on SlopCodeBench (github.com/humanlayer)
+Astronauts describe persistent 'observer' sensation after 6 month missions (spacedaily.com)
+DConf 2026 in London (dconf.org)
+Watching Go's new garbage collector move through the heap (theconsensus.dev)
