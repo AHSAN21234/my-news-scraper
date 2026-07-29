@@ -1055,3 +1055,10 @@ Benchmarking Opus 5 on SlopCodeBench (github.com/humanlayer)
 Astronauts describe persistent 'observer' sensation after 6 month missions (spacedaily.com)
 DConf 2026 in London (dconf.org)
 Watching Go's new garbage collector move through the heap (theconsensus.dev)
+
+Update: 2026-07-29 02:22:54.500877
+Codex Security (github.com/openai)
+Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript (github.com/twalichiewicz)
+Half-Life ported to Mac OS 9 (mac-classic.com)
+Substack writers, you need a website (elizabethtai.com)
+Teach yourself programming in ten years (1998) (norvig.com)
