@@ -1062,3 +1062,10 @@ Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
 Half-Life ported to Mac OS 9 (mac-classic.com)
 Substack writers, you need a website (elizabethtai.com)
 Teach yourself programming in ten years (1998) (norvig.com)
+
+Update: 2026-07-30 02:05:06.030596
+AI's top startups are barely publishing their research (science.org)
+The coolest use for the Vision Pro (christianselig.com)
+Flume Water Monitor 915 MHz Security Is Pretty Good (waveformsecurity.com)
+Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac (github.com/drumih)
+Superlogical (superlogical.com)
