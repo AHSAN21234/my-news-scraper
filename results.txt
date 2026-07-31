@@ -1069,3 +1069,10 @@ The coolest use for the Vision Pro (christianselig.com)
 Flume Water Monitor 915 MHz Security Is Pretty Good (waveformsecurity.com)
 Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac (github.com/drumih)
 Superlogical (superlogical.com)
+
+Update: 2026-07-31 02:32:37.841992
+The AI Aesthetic (jim-nielsen.com)
+Read this before you buy that TV streaming stick (krebsonsecurity.com)
+I flagged two research papers for fake authors and both were accepted as orals (geospatialml.com)
+Agent Skill to Force Docs in ASD-STE100 Simplified Technical English (github.com/aminblg)
+Stacked PRs are now live on GitHub (github.blog)
