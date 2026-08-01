@@ -1076,3 +1076,10 @@ Read this before you buy that TV streaming stick (krebsonsecurity.com)
 I flagged two research papers for fake authors and both were accepted as orals (geospatialml.com)
 Agent Skill to Force Docs in ASD-STE100 Simplified Technical English (github.com/aminblg)
 Stacked PRs are now live on GitHub (github.blog)
+
+Update: 2026-08-01 02:31:33.733239
+Elevators (john.fun)
+qm – Multiplayer agent harness for work (github.com/yc-software)
+How to Exist (raptitude.com)
+The Absurdity of Albert Camus (historytoday.com)
+Progressive Web Components (arielsalminen.com)
