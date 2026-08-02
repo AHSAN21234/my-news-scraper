@@ -1083,3 +1083,10 @@ qm – Multiplayer agent harness for work (github.com/yc-software)
 How to Exist (raptitude.com)
 The Absurdity of Albert Camus (historytoday.com)
 Progressive Web Components (arielsalminen.com)
+
+Update: 2026-08-02 02:29:56.127169
+Go 1.27 Interactive Tour (victoriametrics.com)
+Seedance 2.5 (bytedance.com)
+Diátaxis (diataxis.fr)
+ASRock BC-250: Building the Budget Steam Machine (plug-world.com)
+RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2 (rfc-editor.org)
