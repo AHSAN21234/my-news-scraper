@@ -1090,3 +1090,10 @@ Seedance 2.5 (bytedance.com)
 Diátaxis (diataxis.fr)
 ASRock BC-250: Building the Budget Steam Machine (plug-world.com)
 RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2 (rfc-editor.org)
+
+Update: 2026-08-03 02:32:14.929290
+CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K (github.com/johnsonjh)
+Why Book Corners won't sync contributions back to OpenStreetMap (andreagrandi.it)
+Karpathy’s Pelican (twitter.com/karpathy)
+Show HN: Isopolis – isometric pixel map of SF (isopolis.city)
+RFC 9851: TLS 1.2 is in Feature Freeze (rfc-editor.org)
