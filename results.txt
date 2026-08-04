@@ -1097,3 +1097,10 @@ Why Book Corners won't sync contributions back to OpenStreetMap (andreagrandi.it
 Karpathy’s Pelican (twitter.com/karpathy)
 Show HN: Isopolis – isometric pixel map of SF (isopolis.city)
 RFC 9851: TLS 1.2 is in Feature Freeze (rfc-editor.org)
+
+Update: 2026-08-04 02:11:29.700658
+LLMs reward expertise (seangoedecke.com)
+Amazonian civilization had estimated 3M people in 3% of forest area (science.org)
+Ten advances in mathematics and theoretical computer science (openai.com)
+Ask HN: Who is hiring? (August 2026)
+Devtools must be open source (exe.dev)
