@@ -1104,3 +1104,10 @@ Amazonian civilization had estimated 3M people in 3% of forest area (science.org
 Ten advances in mathematics and theoretical computer science (openai.com)
 Ask HN: Who is hiring? (August 2026)
 Devtools must be open source (exe.dev)
+
+Update: 2026-08-05 02:10:47.314430
+libexpat now funded by the City of Munich for up to 6 months (hartwork.org)
+Eight Myths on Software Engineering and GenAI (acm.org)
+Pi's Minimalism Is Its Advantage (earendil.com)
+I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel (twitter.com/gwern)
+Mistral's Shieldstral: 3B open-weights model for multimodal moderation (mistral.ai)
