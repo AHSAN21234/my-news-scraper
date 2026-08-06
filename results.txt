@@ -1111,3 +1111,10 @@ Eight Myths on Software Engineering and GenAI (acm.org)
 Pi's Minimalism Is Its Advantage (earendil.com)
 I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel (twitter.com/gwern)
 Mistral's Shieldstral: 3B open-weights model for multimodal moderation (mistral.ai)
+
+Update: 2026-08-06 02:17:35.281202
+Discovery Loop (discoveryloop.com)
+LLMs won't break symmetric crypto (bfswa.blog)
+Zed DeltaDB (zed.dev)
+The title cards in Blade Runner are amazing (randsinrepose.com)
+Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs (blog.google)
