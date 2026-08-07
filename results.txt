@@ -1118,3 +1118,10 @@ LLMs won't break symmetric crypto (bfswa.blog)
 Zed DeltaDB (zed.dev)
 The title cards in Blade Runner are amazing (randsinrepose.com)
 Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs (blog.google)
+
+Update: 2026-08-07 02:30:37.869342
+AMD acquires Taalas to boost inference performance by etching models in silicon (theregister.com)
+Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun (nso.edu)
+Mario Meets Pareto (mayerowitz.io)
+Welcoming the Nepalese Government to Have I Been Pwned (troyhunt.com)
+I stopped trusting USB-C cable labels and started testing them (makeuseof.com)
