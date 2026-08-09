@@ -1132,3 +1132,10 @@ U.S. Department of Energy Launches the Genesis Open Models Initiative (anl.gov)
 Should AI labs be treated like the owners of dangerous animals? (economist.com)
 Assembly Hall of Shame (github.com/xoreaxeaxeax)
 Ancient Library – 1,060 Greek/Latin texts, click any word to parse it (ancientlibrary.net)
+
+Update: 2026-08-09 01:24:35.336375
+My server is a phone now (seg6.space)
+Improving Heuristics for A* Pathfinding (redblobgames.com)
+Fastmail offers EU data region (fastmail.com)
+_for-sale DNS records (specification.website)
+Shopify replaced Redis with MySQL for inventory reservations–and it scaled (shopify.engineering)
