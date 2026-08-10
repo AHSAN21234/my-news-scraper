@@ -1139,3 +1139,10 @@ Improving Heuristics for A* Pathfinding (redblobgames.com)
 Fastmail offers EU data region (fastmail.com)
 _for-sale DNS records (specification.website)
 Shopify replaced Redis with MySQL for inventory reservations–and it scaled (shopify.engineering)
+
+Update: 2026-08-10 01:26:09.402753
+How I use LLMs to learn complex topics (laurentiugabriel.github.io)
+New Zealand lost its music media, and what we're building to replace it (propelmusic.co.nz)
+"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892) (publicdomainreview.org)
+Mea Culpa – Dark Hours (terrygodier.com)
+Ask HN: What are you working on? (August 2026)
