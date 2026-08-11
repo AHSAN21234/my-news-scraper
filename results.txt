@@ -1146,3 +1146,10 @@ New Zealand lost its music media, and what we're building to replace it (propelm
 "The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892) (publicdomainreview.org)
 Mea Culpa – Dark Hours (terrygodier.com)
 Ask HN: What are you working on? (August 2026)
+
+Update: 2026-08-11 01:23:59.720957
+The UK's War on Anonymity Has Come to America (effort.news)
+Chicken Scheme 6.0 (call-cc.org)
+Show HN: Scroll through all 43252003274489856000 Rubik's Cube states (alen.is)
+Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows (meta.ai)
+Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots (cactuscompute.com)
