@@ -1153,3 +1153,10 @@ Chicken Scheme 6.0 (call-cc.org)
 Show HN: Scroll through all 43252003274489856000 Rubik's Cube states (alen.is)
 Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows (meta.ai)
 Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots (cactuscompute.com)
+
+Update: 2026-08-12 01:41:07.183327
+WorldClaw Agentic 3D open-world generation at scale (tencent-hunyuan.github.io)
+Compression is prediction (ngrok.com)
+Nvidia Nemotron 3.5 Lightning and NeMo Switchyard (nvidia.com)
+CFTC declares market emergency, orders Kalshi to continue to operate in New York (cftc.gov)
+Mojo 1.0 (modular.com)
