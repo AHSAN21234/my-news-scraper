@@ -1160,3 +1160,10 @@ Compression is prediction (ngrok.com)
 Nvidia Nemotron 3.5 Lightning and NeMo Switchyard (nvidia.com)
 CFTC declares market emergency, orders Kalshi to continue to operate in New York (cftc.gov)
 Mojo 1.0 (modular.com)
+
+Update: 2026-08-13 01:43:34.533347
+DeepSeek V4 Pro 0813 (openrouter.ai)
+Delta (zed.dev)
+Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug (tailscale.com)
+Happy 45th Birthday to the IBM PC and Model F/XT (sharktastica.co.uk)
+Qwen3.8-2.4T (huggingface.co)
