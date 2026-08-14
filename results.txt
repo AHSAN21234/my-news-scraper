@@ -1167,3 +1167,10 @@ Delta (zed.dev)
 Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug (tailscale.com)
 Happy 45th Birthday to the IBM PC and Model F/XT (sharktastica.co.uk)
 Qwen3.8-2.4T (huggingface.co)
+
+Update: 2026-08-14 01:41:50.196559
+Gemini 3.7 Flash (blog.google)
+Bluesky Protocol Services (atproto.com)
+Accelerating GPT-5.6 Sol Ultrafast (cerebras.ai)
+SparrowMap – Cameras that watch government vehicles (sparrowmap.com)
+NP-Overrated (gruhn.me)
