@@ -1174,3 +1174,10 @@ Bluesky Protocol Services (atproto.com)
 Accelerating GPT-5.6 Sol Ultrafast (cerebras.ai)
 SparrowMap – Cameras that watch government vehicles (sparrowmap.com)
 NP-Overrated (gruhn.me)
+
+Update: 2026-08-15 01:02:37.407319
+Qwen 3.8 27B (huggingface.co)
+Going Dark, and the era of law enforcement hacking (cryptographyengineering.com)
+RISC-V: They should have known better (dmitry.gr)
+The case for overhauling American science (economist.com)
+Why does Opus 5 feel worse to work with? (mun-logadan.github.io)
