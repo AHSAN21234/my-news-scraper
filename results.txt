@@ -1188,3 +1188,10 @@ ChatGPT lost 22 points of web share in a year (grok.me)
 Cultivating a state of mind where new ideas are born (2023) (henrikkarlsson.xyz)
 AI in drug discovery – what it is, where we stand and the path forward (science.org)
 At-home test for infected ticks could improve Lyme Disease diagnosis (smithsonianmag.com)
+
+Update: 2026-08-17 01:03:40.894780
+A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better" (rvembedded.com)
+Claude: System Prompts (claude.com)
+The Life and Death of Direct File [pdf] (ischool.berkeley.edu)
+SIMD in the 90s: Programming Intel's Pentium MMX (pikuma.com)
+Low-Tech Ceramic Water Filter (lowtechlab.org)
