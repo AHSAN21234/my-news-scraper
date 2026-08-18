@@ -1195,3 +1195,10 @@ Claude: System Prompts (claude.com)
 The Life and Death of Direct File [pdf] (ischool.berkeley.edu)
 SIMD in the 90s: Programming Intel's Pentium MMX (pikuma.com)
 Low-Tech Ceramic Water Filter (lowtechlab.org)
+
+Update: 2026-08-18 01:02:11.597162
+How Bluesky draws its logo on screenshots (timmarinin.net)
+Quake Shareware, a CD-ROM just a little too full (fabiensanglard.net)
+Fairphone 6 and PostmarketOS working main camera (catcrafts.net)
+A Preview of DuckDB v2.0 (duckdb.org)
+GPU Offload in Rust: Portable, Safe, and Fast (arxiv.org)
