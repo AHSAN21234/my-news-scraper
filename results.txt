@@ -1202,3 +1202,10 @@ Quake Shareware, a CD-ROM just a little too full (fabiensanglard.net)
 Fairphone 6 and PostmarketOS working main camera (catcrafts.net)
 A Preview of DuckDB v2.0 (duckdb.org)
 GPU Offload in Rust: Portable, Safe, and Fast (arxiv.org)
+
+Update: 2026-08-19 01:02:58.302759
+A 3D fruit fly on macOS desktop powered by the real FlyWire connectome (github.com/denissergeevitch)
+Solo – a .so loader for static Linux binaries (github.com/pg83)
+The Amazon tax (seths.blog)
+How does IKEA come up with names for its products? (ikea.com)
+Show HN: Interactive, animated architecture of any HuggingFace models (modelmap.cc)
