@@ -1209,3 +1209,10 @@ Solo – a .so loader for static Linux binaries (github.com/pg83)
 The Amazon tax (seths.blog)
 How does IKEA come up with names for its products? (ikea.com)
 Show HN: Interactive, animated architecture of any HuggingFace models (modelmap.cc)
+
+Update: 2026-08-20 01:02:32.812053
+Gardner police discontinue Flock cameras as license plate readers face scrutiny (kmbc.com)
+OpenRouter is joining Stripe (openrouter.ai)
+Go 1.27 (go.dev)
+Google replaced Git tags for certain source code with obtaining via Google Drive (grapheneos.social)
+Unlocking a locked/deactivated e-waste Cricut Maker (sprocketfox.io)
