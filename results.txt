@@ -1216,3 +1216,10 @@ OpenRouter is joining Stripe (openrouter.ai)
 Go 1.27 (go.dev)
 Google replaced Git tags for certain source code with obtaining via Google Drive (grapheneos.social)
 Unlocking a locked/deactivated e-waste Cricut Maker (sprocketfox.io)
+
+Update: 2026-08-21 01:06:01.519781
+Copyright does not protect AI-generated content in EU (mathstodon.xyz)
+The August 17 outage, and the work ahead (github.blog)
+Consumer Rights Wiki (consumerrights.wiki)
+I like 'em thick: an apology to my English teachers (experimental-history.com)
+Aaron Swartz was prosecuted for scraping, while Meta does it without consequence (curiousquail.com)
