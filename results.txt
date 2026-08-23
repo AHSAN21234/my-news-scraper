@@ -1230,3 +1230,10 @@ Felony Bench (felonybench.com)
 Three important steps in my maturation process (thomasdullien.github.io)
 Scientists release biggest 2D map of the universe (lbl.gov)
 Kagi added a setting for removing paywalled links from search results (kagi.com)
+
+Update: 2026-08-23 01:07:34.304704
+NanoGPT Speedrun Frontier (primeintellect.ai)
+Scrap (twitter.com/moxie)
+Why your local LLM feels dumber than it is (level1techs.com)
+ElevenLabs, TwelveLabs, ThirteenLabs (quantumi.sh)
+Hister – A private, full content search index that you control (hister.org)
