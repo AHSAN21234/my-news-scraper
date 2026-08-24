@@ -1237,3 +1237,10 @@ Scrap (twitter.com/moxie)
 Why your local LLM feels dumber than it is (level1techs.com)
 ElevenLabs, TwelveLabs, ThirteenLabs (quantumi.sh)
 Hister – A private, full content search index that you control (hister.org)
+
+Update: 2026-08-24 01:05:20.223250
+Everything I own, owned (schlarp.com)
+How I find problems to solve as a staff engineer (lalitm.com)
+Anthropic's best AI model struggles to attract users as cheaper tools thrive (ft.com)
+Google Workspace thinks my domain is an email provider (2025) (elis.cc)
+My agent.md to improve LLM-assisted code quality (fabiensanglard.net)
