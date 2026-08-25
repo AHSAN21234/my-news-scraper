@@ -1244,3 +1244,10 @@ How I find problems to solve as a staff engineer (lalitm.com)
 Anthropic's best AI model struggles to attract users as cheaper tools thrive (ft.com)
 Google Workspace thinks my domain is an email provider (2025) (elis.cc)
 My agent.md to improve LLM-assisted code quality (fabiensanglard.net)
+
+Update: 2026-08-25 01:04:33.183030
+iCloud+ Hide My Email addresses will remain on icloud.com (developer.apple.com)
+Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded (twitter.com/lemire)
+Moon (2024) (ciechanow.ski)
+MS Paint and Photos inivisibly watermark even locally generated output with GUID (xusheng.dev)
+The entire city of San Francisco as a video game (thijs.gg)
