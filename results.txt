@@ -1251,3 +1251,10 @@ Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded (
 Moon (2024) (ciechanow.ski)
 MS Paint and Photos inivisibly watermark even locally generated output with GUID (xusheng.dev)
 The entire city of San Francisco as a video game (thijs.gg)
+
+Update: 2026-08-26 01:06:19.785797
+FDA authorizes first wearable device that monitors ketone and blood sugar levels (fda.gov)
+Apple introduces M6 and M5 Ultra (apple.com)
+OpenAI Jalapeño: Better than Nvidia Blackwell (semianalysis.com)
+New Mac Studio with M5 Max and M5 Ultra (apple.com)
+Python's pre-declared constants are kinda weird (sebsite.pw)
