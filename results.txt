@@ -1258,3 +1258,10 @@ Apple introduces M6 and M5 Ultra (apple.com)
 OpenAI Jalapeño: Better than Nvidia Blackwell (semianalysis.com)
 New Mac Studio with M5 Max and M5 Ultra (apple.com)
 Python's pre-declared constants are kinda weird (sebsite.pw)
+
+Update: 2026-08-27 07:11:25.212794
+Nvidia agrees to acquire Hugging Face for $13B (businessinsider.com)
+CEO fired developers to make room for AI. Developers create open source AI CEO (github.com/sentelabsai)
+Mechanical Turk shutting down September 30 (mturk.com)
+Pnpm 12.0 (pnpm.io)
+GLM-5.3-Flash (z.ai)
