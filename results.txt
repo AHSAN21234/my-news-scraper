@@ -1265,3 +1265,10 @@ CEO fired developers to make room for AI. Developers create open source AI CEO (
 Mechanical Turk shutting down September 30 (mturk.com)
 Pnpm 12.0 (pnpm.io)
 GLM-5.3-Flash (z.ai)
+
+Update: 2026-08-28 08:57:47.133415
+Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache (cloudflare.com)
+Small Models Have Arrived (calv.info)
+Sovereign Tech Agency invests €500k in Flatpak (modal.cx)
+507 Mechanical Movements (507movements.com)
+Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance (github.com/elyosh)
