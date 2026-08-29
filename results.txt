@@ -1272,3 +1272,10 @@ Small Models Have Arrived (calv.info)
 Sovereign Tech Agency invests €500k in Flatpak (modal.cx)
 507 Mechanical Movements (507movements.com)
 Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance (github.com/elyosh)
+
+Update: 2026-08-29 05:32:30.992255
+Boot a Virtual iPhone via Apple's Virtualization.framework (github.com/lakr233)
+GUIs should be fully keyboard-driven (ckardaris.com)
+TurboKV: Insanely fast Rust key-value store (github.com/kingroryg)
+Htmx 4.0 (htmx.org)
+Our decision on Cursor following its acquisition by SpaceX (openai.com)
