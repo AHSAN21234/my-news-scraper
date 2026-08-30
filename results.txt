@@ -1279,3 +1279,10 @@ GUIs should be fully keyboard-driven (ckardaris.com)
 TurboKV: Insanely fast Rust key-value store (github.com/kingroryg)
 Htmx 4.0 (htmx.org)
 Our decision on Cursor following its acquisition by SpaceX (openai.com)
+
+Update: 2026-08-30 03:30:51.540811
+Bug Blindness (danluu.com)
+FreeCORE TrueNAS Core – Continued (freecore.org)
+Hy4 preview (tencent.com)
+RISC-V is now officially supported by CPython (python.org)
+Tether: iMessage, SMS, etc. on Linux (zackbartel.com)
