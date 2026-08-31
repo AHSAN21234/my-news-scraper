@@ -1286,3 +1286,10 @@ FreeCORE TrueNAS Core – Continued (freecore.org)
 Hy4 preview (tencent.com)
 RISC-V is now officially supported by CPython (python.org)
 Tether: iMessage, SMS, etc. on Linux (zackbartel.com)
+
+Update: 2026-08-31 03:29:25.549251
+“I just chose words carefully” (aresluna.org)
+Creepy Crawlies (kernel.org)
+Understanding ChatGPT Work (simonwillison.net)
+Matrox: Graphics for Professionals (abortretry.fail)
+CobaltC – The Successor to C? (strawberry9.github.io)
