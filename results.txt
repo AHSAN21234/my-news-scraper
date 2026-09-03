@@ -1307,3 +1307,10 @@ Claude Fable 5.1 and Claude Mythos 5.1 (anthropic.com)
 How accurate have Ed Zitron's AI skeptic predictions been? (danluu.com)
 The efficient frontier of LLM inference (baseten.co)
 Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos (masteranza.github.io)
+
+Update: 2026-09-03 02:50:51.641134
+Muse Spark 1.3 (meta.com)
+Gemini 3.8 Flash and 3.8 Flash Cyber (blog.google)
+Google avoids a breakup of its ad tech business (nytimes.com)
+Holden's Lightning Flight (wikipedia.org)
+Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s
