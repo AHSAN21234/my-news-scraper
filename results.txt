@@ -1314,3 +1314,10 @@ Gemini 3.8 Flash and 3.8 Flash Cyber (blog.google)
 Google avoids a breakup of its ad tech business (nytimes.com)
 Holden's Lightning Flight (wikipedia.org)
 Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s
+
+Update: 2026-09-04 02:49:32.989438
+GPT-6 Astra (openai.com)
+.name Termination (fraser.name)
+Qwen 3.8 27B available on Cerebras at 1500 tokens/s (cerebras.ai)
+Project Xanadu: Even More Hindsight (gwern.net)
+New type of dice guarantees no tie when deciding who goes first (cbc.ca)
