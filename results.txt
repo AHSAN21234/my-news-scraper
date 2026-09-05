@@ -1321,3 +1321,10 @@ GPT-6 Astra (openai.com)
 Qwen 3.8 27B available on Cerebras at 1500 tokens/s (cerebras.ai)
 Project Xanadu: Even More Hindsight (gwern.net)
 New type of dice guarantees no tie when deciding who goes first (cbc.ca)
+
+Update: 2026-09-05 02:51:34.529953
+Actively exploited sandbox RCE in all Chromium versions (nist.gov)
+Formalizing Fermat's Last Theorem (anthropic.com)
+Discovery of a new OpenAI agent message board (collusion.wiki)
+Artificial Analysis Intelligence Index v4.2 (artificialanalysis.ai)
+Statichost.eu – European static site hosting (statichost.eu)
