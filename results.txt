@@ -1328,3 +1328,10 @@ Formalizing Fermat's Last Theorem (anthropic.com)
 Discovery of a new OpenAI agent message board (collusion.wiki)
 Artificial Analysis Intelligence Index v4.2 (artificialanalysis.ai)
 Statichost.eu – European static site hosting (statichost.eu)
+
+Update: 2026-09-06 02:49:52.849966
+Cloud in a Bottle: making self-hosting accessible to everyone (cloudinabottle.org)
+The revolt of the reader (dtrace.org)
+GPT-6 Astra on robot arms (robocurve.org)
+Private German rocket makes history, reaches orbit from European soil (space.com)
+Learn Programming with OCaml (cnrs.fr)
