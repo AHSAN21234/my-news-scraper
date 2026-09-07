@@ -1335,3 +1335,10 @@ The revolt of the reader (dtrace.org)
 GPT-6 Astra on robot arms (robocurve.org)
 Private German rocket makes history, reaches orbit from European soil (space.com)
 Learn Programming with OCaml (cnrs.fr)
+
+Update: 2026-09-07 02:47:33.220571
+Making a Python interpreter in 1024 bytes (austinhenley.com)
+It took a year to ship WebAssembly in Anubis (techaro.lol)
+The NX bit is not just about security (purplesyringa.moe)
+Your intellectual fly is open when you use an LLM to author a post (2025) (dtrace.org)
+Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple (github.com/marsbos)
