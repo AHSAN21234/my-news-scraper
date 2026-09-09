@@ -1349,3 +1349,10 @@ TALA Is Open-Source (d2lang.com)
 Jellyfin 12.0 (jellyfin.org)
 Watch Los Angeles get built, one building at a time (1880–2026) (parcelscope.net)
 Leaving VMware just got harder after Broadcom pulled VDDK downloads (virtualizationhowto.com)
+
+Update: 2026-09-09 02:58:38.932659
+Harvard study predicts most suicide attempts a week in advance (fas.harvard.edu)
+Muse – Meta’s personal AI agent (meta.com)
+Navier-Stokes – Tristan Buckmaster [pdf] (nyu.edu)
+Large language models develop novel social biases through adaptive exploration (openreview.net)
+How to build a printer (nishantjosh.dev)
