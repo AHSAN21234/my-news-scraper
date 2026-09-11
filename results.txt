@@ -1363,3 +1363,10 @@ Shopify acquires Tailwind (tailwindcss.com)
 What do Visa and Mastercard do? An intro to card networks (tautology.town)
 Show HN: What if the speed of light was 5 km/h? (dmitrybrant.com)
 Growing proof that autonomous cars save lives (ieee.org)
+
+Update: 2026-09-11 02:55:09.975792
+Shopify is moving from React Native back to Swift and Kotlin (shopify.engineering)
+More questions about whether researchers can trust OpenAI with unpublished math (mathstodon.xyz/andreasthom)
+OpenAI Agents API (developers.openai.com)
+Mexican student creates an acoustic fire extinguisher to put out fire in seconds (upsocl.com)
+YuE2 · Frontier Music with Symbolic Planning (map-yue2.github.io)
