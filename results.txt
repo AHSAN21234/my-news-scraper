@@ -1370,3 +1370,10 @@ More questions about whether researchers can trust OpenAI with unpublished math 
 OpenAI Agents API (developers.openai.com)
 Mexican student creates an acoustic fire extinguisher to put out fire in seconds (upsocl.com)
 YuE2 · Frontier Music with Symbolic Planning (map-yue2.github.io)
+
+Update: 2026-09-12 03:01:40.830892
+A misalignment of AI in mathematics (mathandai.org)
+I spent $220 on Google app ads and 60% of the installs were robots (dayzlegame.com)
+A Design Space Exploration of Async/Await (brown.edu)
+OpenAI agents carried out an undisclosed attack on RubyGems (rubyhack.ai)
+AI researchers debate how close we are to recursive self-improvement (dwarkesh.com)
