@@ -1377,3 +1377,10 @@ I spent $220 on Google app ads and 60% of the installs were robots (dayzlegame.c
 A Design Space Exploration of Async/Await (brown.edu)
 OpenAI agents carried out an undisclosed attack on RubyGems (rubyhack.ai)
 AI researchers debate how close we are to recursive self-improvement (dwarkesh.com)
+
+Update: 2026-09-13 03:02:30.430515
+The Interim Computer Museum (icm.museum)
+Make your first edit to OpenStreetMap (high5apps.github.io)
+Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases (withspecific.com)
+Nvidia is the central bank of AI (economist.com)
+Apple iPod Engraver (2019) (dunstanorchard.com)
