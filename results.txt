@@ -1384,3 +1384,10 @@ Make your first edit to OpenStreetMap (high5apps.github.io)
 Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases (withspecific.com)
 Nvidia is the central bank of AI (economist.com)
 Apple iPod Engraver (2019) (dunstanorchard.com)
+
+Update: 2026-09-14 03:16:26.131988
+Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher (vals.ai)
+Why is Google still serving dodgy ads? (atomic14.com)
+Spaceships (Reverse Asteroid) (treybastian.com)
+Registration without a phone number on Signal will use zero-knowledge proofs (signalusers.org)
+Open-Source AI and Open Models Reading List (interconnects.ai)
