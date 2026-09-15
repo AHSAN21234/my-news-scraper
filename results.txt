@@ -1391,3 +1391,10 @@ Why is Google still serving dodgy ads? (atomic14.com)
 Spaceships (Reverse Asteroid) (treybastian.com)
 Registration without a phone number on Signal will use zero-knowledge proofs (signalusers.org)
 Open-Source AI and Open Models Reading List (interconnects.ai)
+
+Update: 2026-09-15 03:18:01.888693
+iOS 27, iPadOS 27, and macOS 27 (apple.com)
+Pion, an agent designed to run any company autonomously (andonlabs.com)
+Charts built for Chat (dbtcharts.com)
+4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls (arkeonews.net)
+Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS (github.com/jamesryanatx)
