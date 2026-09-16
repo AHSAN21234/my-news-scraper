@@ -1398,3 +1398,10 @@ Pion, an agent designed to run any company autonomously (andonlabs.com)
 Charts built for Chat (dbtcharts.com)
 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls (arkeonews.net)
 Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS (github.com/jamesryanatx)
+
+Update: 2026-09-16 03:14:06.931729
+Introducing System One Models and Jev (typesafe.ai)
+Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations (github.com/arnegiacomo)
+Negativland, Culture Jamming, and the Art of Making Something New (blog.archive.org)
+An update on Wayback Machine access (blog.archive.org)
+German Rheinmetall open-sources its Battlesuite connected weapon system protcol (rheinmetall.github.io)
