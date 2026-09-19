@@ -1419,3 +1419,10 @@ Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint (prismml.com)
 Bend – A language that blocks AI mistakes via proof, on CPU and GPU (bend-lang.com)
 Hister: A private search engine for the pages you visit and the files you keep (github.com/asciimoo)
 Wax motor (wikipedia.org)
+
+Update: 2026-09-19 03:02:10.299589
+Android 17 is the first since 3.x to add new APIs without releasing to the AOSP (grapheneos.social)
+Science Is Open Software (jepedersen.dk)
+SDCC – Small Device C Compiler (sourceforge.net)
+Cloudflare Quick Tunnels (cloudflare.com)
+Saving another 100TB of RAM (cloudflare.com)
