@@ -1433,3 +1433,10 @@ I built non-autoregressive decision models with RL a year ago (convaiinnovations
 RSA-896 (saweis.net)
 How Hacker News ranking works: scoring, controversy, and penalties (2013) (righto.com)
 Brood War Bench (swerdlow.dev)
+
+Update: 2026-09-21 03:13:32.931691
+AX – Google’s Open Agentic Orchestrator (agentexecutor.io)
+Samsung is expected to more than double output of its HBM4 and HBM4E DRAM (sedaily.com)
+ChatGPT now knows what you do on other websites via ad collector (buchodi.com)
+What happened to the Snowden archive (libroot.org)
+Qwen Image 2.1 (qwen.ai)
