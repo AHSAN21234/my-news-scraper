@@ -1454,3 +1454,10 @@ Claude Opus 5.5 (anthropic.com)
 US criticises Australia's proposed algorithm opt-out laws as 'censorship' (bbc.com)
 'We hacked the FBI:' Hackers say they have data on all FBI employees (404media.co)
 OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005 (cryptocellar.org)
+
+Update: 2026-09-24 03:03:22.122525
+Linux support is coming to Snapdragon X2 Series (qualcomm.com)
+Claude discovers a novel enzyme system with CRISPR-like repeats (anthropic.com)
+Feds Target AI Critics as "Foreign Agents" (kenklippenstein.com)
+Meta VR Glasses (meta.com)
+ArXiv receives multiyear commitments to support it as an independent nonprofit (arxiv.org)
