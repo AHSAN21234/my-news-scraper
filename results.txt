@@ -1468,3 +1468,10 @@ Show HN: Make cursed fonts like Times New Bastard (mitpit.com)
 Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design (github.com/devdotfast)
 Why is the liver so weirdly regenerative? (dynomight.substack.com)
 Jev and System One Models: Calibration Beats Accuracy (kartikpansuriya.com)
+
+Update: 2026-09-26 03:25:16.220447
+Revealing the details of how OpenAI agents hacked Hugging Face (swarmtraces.org)
+Ollaya – Ollama for open-source, Jev-style decision models (ollaya.dev)
+Plan mode is dead (aymannadeem.com)
+Show HN: Jev Plays Pokémon Red (jev-pokemon.vercel.app)
+What even is an OS now? (sockpuppet.org)
