@@ -1475,3 +1475,10 @@ Ollaya – Ollama for open-source, Jev-style decision models (ollaya.dev)
 Plan mode is dead (aymannadeem.com)
 Show HN: Jev Plays Pokémon Red (jev-pokemon.vercel.app)
 What even is an OS now? (sockpuppet.org)
+
+Update: 2026-09-27 03:33:35.227990
+PipePipe: NewPipe hard fork implementing SponsorBlock (github.com/infinityloop1308)
+DeepSeek Elastic Compute (DSec) (arxiv.org)
+Does Georgism work? Five years later (astralcodexten.com)
+Go Concurrency Distilled (antonz.org)
+Show HN: Reladraw – A diagram language where you decide where to place things (github.com/reladraw)
