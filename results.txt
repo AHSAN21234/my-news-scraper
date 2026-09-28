@@ -1482,3 +1482,10 @@ DeepSeek Elastic Compute (DSec) (arxiv.org)
 Does Georgism work? Five years later (astralcodexten.com)
 Go Concurrency Distilled (antonz.org)
 Show HN: Reladraw – A diagram language where you decide where to place things (github.com/reladraw)
+
+Update: 2026-09-28 03:31:43.333931
+Owed a billion dollars in Nvidia stock (colo.to)
+Self-parking car using genetic algorithm (2021) (trekhleb.dev)
+Ember-1 (fireworks.ai)
+When did Google get so weird? (sancho.bearblog.dev)
+Nissan's third generation e-POWER powertrain (nissan-global.com)
