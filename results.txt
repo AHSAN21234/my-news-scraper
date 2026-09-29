@@ -1489,3 +1489,10 @@ Self-parking car using genetic algorithm (2021) (trekhleb.dev)
 Ember-1 (fireworks.ai)
 When did Google get so weird? (sancho.bearblog.dev)
 Nissan's third generation e-POWER powertrain (nissan-global.com)
+
+Update: 2026-09-29 04:07:23.719200
+Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms (github.com/firelex)
+1996 chat room simulator connected to Win95 and System 7 web desktops (lolchat.rip)
+Pirating the Pirates (mubi.com)
+MicroLLM Lab – Try 7 tiny LLM's in the browser (stateofutopia.com)
+12,000-year-old Göbeklitepe burials explain scattered bones (archaeologymag.com)
