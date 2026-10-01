@@ -1503,3 +1503,10 @@ U.S. postal inspectors shut down website selling counterfeit postage labels (pos
 PSSA: A non-transformer language model written from scratch in Rust (github.com/sparticle62ops)
 America.gov (america.gov)
 Show HN: Real-time Solar System with 526k asteroids and all tracked satellites (bl2.net)
+
+Update: 2026-10-01 04:02:21.780434
+Gemini 4 Argon (blog.google)
+The top secret URSALA, RAQUEL, and FARRAH satellites (2025) (thespacereview.com)
+56k.rip – the 1996 dial-up internet experience (56k.rip)
+Surprisingly complex waves reveal the brain's inner workings (quantamagazine.org)
+Why the Bronze Age Collapsed (worksinprogress.news)
