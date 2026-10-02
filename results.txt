@@ -1510,3 +1510,10 @@ The top secret URSALA, RAQUEL, and FARRAH satellites (2025) (thespacereview.com)
 56k.rip – the 1996 dial-up internet experience (56k.rip)
 Surprisingly complex waves reveal the brain's inner workings (quantamagazine.org)
 Why the Bronze Age Collapsed (worksinprogress.news)
+
+Update: 2026-10-02 03:57:57.371791
+Pi 1.0 (earendil.com)
+Several vulnerabilities have been discovered in the Linux kernel (lwn.net)
+Clef: Open-weight decision models, and new RL fine-tuning platform (cloudflare.com)
+Automatic Transmission – a data-privacy study of connected vehicles (northeastern.edu)
+SvelteKit 3 (svelte.dev)
