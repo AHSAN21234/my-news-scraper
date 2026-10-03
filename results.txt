@@ -1517,3 +1517,10 @@ Several vulnerabilities have been discovered in the Linux kernel (lwn.net)
 Clef: Open-weight decision models, and new RL fine-tuning platform (cloudflare.com)
 Automatic Transmission – a data-privacy study of connected vehicles (northeastern.edu)
 SvelteKit 3 (svelte.dev)
+
+Update: 2026-10-03 03:43:07.512596
+Newgrounds.com – A community of games, music, and art (newgrounds.com)
+The Forgetful CPU (Linux on M4) (yuka.dev)
+Court agrees with EFF: Utah's VPN law demands a technical impossibility (eff.org)
+NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf] (ntsb.gov)
+Things that apparently cause cancer (breakthroughjournal.org)
