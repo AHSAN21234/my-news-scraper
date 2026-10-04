@@ -1524,3 +1524,10 @@ The Forgetful CPU (Linux on M4) (yuka.dev)
 Court agrees with EFF: Utah's VPN law demands a technical impossibility (eff.org)
 NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf] (ntsb.gov)
 Things that apparently cause cancer (breakthroughjournal.org)
+
+Update: 2026-10-04 04:12:53.038459
+We're going to need default hard budget caps on pretty much everything (simonwillison.net)
+Bob Cringely Has Died
+Treachery in the Rodin Museum 3D scan verdict (cosmowenman.substack.com)
+The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux (phoronix.com)
+Hole Punch: Sling your spaceship around gravitational fields (notoriousbfg.com)
