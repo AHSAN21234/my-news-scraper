@@ -1545,3 +1545,10 @@ Beam: Reflection's 501B open-weight model (reflection.ai)
 Example.com just launched the biggest redesign in decades (debugbear.com)
 Find the flattest route between any two points in SF (flattensf.com)
 Dust: Pretraining Transformers Without Backpropagation (qlabs.sh)
+
+Update: 2026-10-07 04:12:14.094114
+Sharing AI progress in mathematics (openai.com)
+Mistral Large 4 (mistral.ai)
+Strands Decider 2B: a small, open-source, decision model (strandsagents.com)
+Decisions API is in public beta (developers.openai.com)
+The cost of lies: A Mineserver story (jeremyreimer.com)
