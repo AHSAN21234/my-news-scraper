@@ -1552,3 +1552,10 @@ Mistral Large 4 (mistral.ai)
 Strands Decider 2B: a small, open-source, decision model (strandsagents.com)
 Decisions API is in public beta (developers.openai.com)
 The cost of lies: A Mineserver story (jeremyreimer.com)
+
+Update: 2026-10-08 04:24:15.209876
+Claude Haiku 5.5 (anthropic.com)
+Living off-grid: Hundred Rabbits (100r.ca)
+Margaret Hamilton has died (news.mit.edu)
+Cleo (Mathematician) (wikipedia.org)
+How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't (science.org)
