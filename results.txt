@@ -1559,3 +1559,10 @@ Living off-grid: Hundred Rabbits (100r.ca)
 Margaret Hamilton has died (news.mit.edu)
 Cleo (Mathematician) (wikipedia.org)
 How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't (science.org)
+
+Update: 2026-10-09 04:28:29.541808
+Whistle: Speech to Text in 16.9 MB (cactuscompute.com)
+Reducing undefined behavior in the C language (lwn.net)
+Theranos.world (theranos.world)
+Keyboard differences between Windows and Macs (aresluna.org)
+Man discovers his parents' coffee machine used 1TB of data in 10 days (dexerto.com)
