@@ -1566,3 +1566,10 @@ Reducing undefined behavior in the C language (lwn.net)
 Theranos.world (theranos.world)
 Keyboard differences between Windows and Macs (aresluna.org)
 Man discovers his parents' coffee machine used 1TB of data in 10 days (dexerto.com)
+
+Update: 2026-10-10 04:14:08.723043
+REA Reverse – Engineer Anything (rea.tools)
+Cloudflare acquires Deno (deno.com)
+Triple-A Minesweeper (mikelacher.com)
+Can you use autoregressive diffusion to generate market data? (janestreet.com)
+Eye of Sauron: Long-Range Hidden Spy Camera Detection (usenix.org)
