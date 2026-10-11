@@ -1573,3 +1573,10 @@ Cloudflare acquires Deno (deno.com)
 Triple-A Minesweeper (mikelacher.com)
 Can you use autoregressive diffusion to generate market data? (janestreet.com)
 Eye of Sauron: Long-Range Hidden Spy Camera Detection (usenix.org)
+
+Update: 2026-10-11 03:52:14.646080
+WallHop – 12ft.io is gone, so I built a replacement (wallhop.io)
+500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter (momo5502.com)
+Build your own decision model (nishtahir.com)
+2D Vehicles (patkerr.co.uk)
+A city-building game in which the city would prefer you didn't (over.pizza)
