@@ -1580,3 +1580,10 @@ WallHop – 12ft.io is gone, so I built a replacement (wallhop.io)
 Build your own decision model (nishtahir.com)
 2D Vehicles (patkerr.co.uk)
 A city-building game in which the city would prefer you didn't (over.pizza)
+
+Update: 2026-10-12 04:13:41.782550
+Fingerprints are the new cookies (royfish.dev)
+Whatever became of holography? (2011) (americanscientist.org)
+Total Annihilation, rebuilt for modern computers (nanolathe.gg)
+Calculus with Julia (jverzani.github.io)
+Cartographers of North Korea (2019) (wonyoung.so)
