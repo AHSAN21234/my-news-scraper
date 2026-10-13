@@ -1587,3 +1587,10 @@ Whatever became of holography? (2011) (americanscientist.org)
 Total Annihilation, rebuilt for modern computers (nanolathe.gg)
 Calculus with Julia (jverzani.github.io)
 Cartographers of North Korea (2019) (wonyoung.so)
+
+Update: 2026-10-13 05:22:45.705991
+AI Models Can Provably Hide Arbitrary Capabilities (arxiv.org)
+The baffling intelligence of a single cell (2024) (jsomers.net)
+GLM-Legal (z.ai)
+A Modern Web App in C (prophitt.me)
+Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X (intel.com)
