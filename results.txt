@@ -1594,3 +1594,10 @@ The baffling intelligence of a single cell (2024) (jsomers.net)
 GLM-Legal (z.ai)
 A Modern Web App in C (prophitt.me)
 Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X (intel.com)
+
+Update: 2026-10-14 03:27:04.766644
+Gemini 4 Argon (deepmind.google)
+Show HN: Guitoro, a virtual guitar you strum with your keyboard (guitoro.com)
+Ledger confirms spy chip implant behind wallet crypto thefts (bleepingcomputer.com)
+Redesigning source control at Anthropic (anthropic.com)
+Apple HomeView (apple.com)
