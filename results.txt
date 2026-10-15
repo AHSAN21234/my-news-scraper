@@ -1601,3 +1601,10 @@ Show HN: Guitoro, a virtual guitar you strum with your keyboard (guitoro.com)
 Ledger confirms spy chip implant behind wallet crypto thefts (bleepingcomputer.com)
 Redesigning source control at Anthropic (anthropic.com)
 Apple HomeView (apple.com)
+
+Update: 2026-10-15 03:06:01.439944
+Things to know when you get cancer (jjmaxwell4.com)
+OpenCode 2.0 (anoma.ly)
+Tiny Little Office (tinylittleoffice.com)
+LFM2.5-24B-A2B: Built for fast on-device agents (liquid.ai)
+We’re releasing Jev 1.14.0 along with experimental features for dreamers (typesafe.ai)
