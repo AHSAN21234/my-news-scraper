@@ -1608,3 +1608,10 @@ OpenCode 2.0 (anoma.ly)
 Tiny Little Office (tinylittleoffice.com)
 LFM2.5-24B-A2B: Built for fast on-device agents (liquid.ai)
 We’re releasing Jev 1.14.0 along with experimental features for dreamers (typesafe.ai)
+
+Update: 2026-10-16 03:02:42.494371
+Muse Spark Open (meta.ai)
+RPKI now protects 70% of internet routes (ipinfo.io)
+Business accounts will consent to Meta scraping their websites Starting Oct. 30 (niemanlab.org)
+Neural networks are clean (goodfire.com)
+Any window from your Mac, on your iPhone and iPad (github.com/saffsanity)
