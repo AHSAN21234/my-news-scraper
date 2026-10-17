@@ -1615,3 +1615,10 @@ RPKI now protects 70% of internet routes (ipinfo.io)
 Business accounts will consent to Meta scraping their websites Starting Oct. 30 (niemanlab.org)
 Neural networks are clean (goodfire.com)
 Any window from your Mac, on your iPhone and iPad (github.com/saffsanity)
+
+Update: 2026-10-17 02:55:03.367308
+Tesla Roadster (tesla.com)
+Butlerian Jihad (dune.fandom.com)
+Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console (github.com/cobanov)
+Claude reveals ECDSA curve origins (anthropic.com)
+FLUX 3 Image Klein (bfl.ai)
