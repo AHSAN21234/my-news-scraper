@@ -1622,3 +1622,10 @@ Butlerian Jihad (dune.fandom.com)
 Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console (github.com/cobanov)
 Claude reveals ECDSA curve origins (anthropic.com)
 FLUX 3 Image Klein (bfl.ai)
+
+Update: 2026-10-18 02:56:22.037919
+Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day (meidasnews.com)
+Bleached corals thrive within days when touching healthy neighbour (nature.com)
+Dam removals are bringing fish back across the northeastern United States (smithsonianmag.com)
+Lean Now Ships with Verified Kernels (leodemoura.github.io)
+DeepSeek-v4.1-Flash-1017 (huggingface.co)
