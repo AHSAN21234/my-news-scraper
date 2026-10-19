@@ -1629,3 +1629,10 @@ Bleached corals thrive within days when touching healthy neighbour (nature.com)
 Dam removals are bringing fish back across the northeastern United States (smithsonianmag.com)
 Lean Now Ships with Verified Kernels (leodemoura.github.io)
 DeepSeek-v4.1-Flash-1017 (huggingface.co)
+
+Update: 2026-10-19 03:09:59.203947
+Hybrid Reasoning Agents: LLM agents that think in latent space, act through text (arxiv.org)
+William Gibson and the trademarking of cyberspace (colo.to)
+There's never been a better time to go into math (by: 3blue1brown) [video] (youtube.com)
+Superlite: A Faster Alternatie to Superpowers (contextfirst.blog)
+Laptop Based on 6502 CPU (maddox.pro)
