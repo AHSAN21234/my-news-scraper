@@ -1650,3 +1650,10 @@ Learning to live with Waymos (newyorker.com)
 In Hilbert space, all things are quantumly possible (quantamagazine.org)
 Feds suspect ransom negotiator ran ShinyHunters extortion site (krebsonsecurity.com)
 Good type against all odds (aresluna.org)
+
+Update: 2026-10-22 03:11:55.951695
+mitmproxy adds --emudhra option (github.com/mitmproxy)
+There isn't an easy exploit for this PHP vulnerability (eliastaylor.com)
+The recently proposed o(n log n) integer multiplication algorithm [pdf] (unsw.edu.au)
+Security Disclosure (railway.com)
+Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments (fedcourt.gov.au)
