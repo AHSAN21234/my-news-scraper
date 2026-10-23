@@ -1657,3 +1657,10 @@ There isn't an easy exploit for this PHP vulnerability (eliastaylor.com)
 The recently proposed o(n log n) integer multiplication algorithm [pdf] (unsw.edu.au)
 Security Disclosure (railway.com)
 Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments (fedcourt.gov.au)
+
+Update: 2026-10-23 03:17:45.590483
+LLMs are making formal software verification feasible at a much larger scale (anthropic.com)
+Docker is weird (codeandcake.dev)
+Quad9 (DNS Resolver) to Exit France (quad9.net)
+OpenShell – A safe, private runtime for fleets of autonomous AI agents (github.com/nvidia)
+Mortality Among People with Attention-Deficit/Hyperactivity Disorder (jamanetwork.com)
