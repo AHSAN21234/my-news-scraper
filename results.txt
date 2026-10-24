@@ -1664,3 +1664,10 @@ Docker is weird (codeandcake.dev)
 Quad9 (DNS Resolver) to Exit France (quad9.net)
 OpenShell – A safe, private runtime for fleets of autonomous AI agents (github.com/nvidia)
 Mortality Among People with Attention-Deficit/Hyperactivity Disorder (jamanetwork.com)
+
+Update: 2026-10-24 03:11:22.152551
+Kimi K3.1 Pro and K3.1 Pro Highspeed (kimi.ai)
+Evolving Threat: http2shell is an RCE in node, Python, and more (nitter.click)
+Apple Music 404 Not Found (music.apple.com)
+Twelve Years of Distributed SQLite (philipotoole.com)
+CVE Tracker (0xosprey.com)
