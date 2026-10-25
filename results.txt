@@ -1671,3 +1671,10 @@ Evolving Threat: http2shell is an RCE in node, Python, and more (nitter.click)
 Apple Music 404 Not Found (music.apple.com)
 Twelve Years of Distributed SQLite (philipotoole.com)
 CVE Tracker (0xosprey.com)
+
+Update: 2026-10-25 03:06:45.279539
+We should be more ambitious with the software we build (danluu.com)
+The Goose Programming Language (aardappel.github.io)
+Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz (missileer.watch)
+America has lost 200k of jobs in media, film and the arts. How much is AI? (apricitas.io)
+Why Gopher in 2026? (muffinlabs.com)
