@@ -1678,3 +1678,10 @@ The Goose Programming Language (aardappel.github.io)
 Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz (missileer.watch)
 America has lost 200k of jobs in media, film and the arts. How much is AI? (apricitas.io)
 Why Gopher in 2026? (muffinlabs.com)
+
+Update: 2026-10-26 03:06:23.937330
+Dolly Parton's Imagination Library (imaginationlibrary.com)
+Removing Next.js Got My Blog to 100 on Every Lighthouse Category (bloffy.blog)
+F-Zero X on Nintendo 3DS (hypnotize.works)
+Overgrown, when plants invade your abandoned tabs (charliegerard.dev)
+Why I Am a Programmer (alfie.wtf)
