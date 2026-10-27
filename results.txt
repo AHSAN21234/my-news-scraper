@@ -1685,3 +1685,10 @@ Removing Next.js Got My Blog to 100 on Every Lighthouse Category (bloffy.blog)
 F-Zero X on Nintendo 3DS (hypnotize.works)
 Overgrown, when plants invade your abandoned tabs (charliegerard.dev)
 Why I Am a Programmer (alfie.wtf)
+
+Update: 2026-10-27 03:37:32.847278
+Three new discoveries in mathematics, computer science, and physics (openai.com)
+The Exponential Time Hypothesis Is False [pdf] (github.com/openai)
+Sebastian Raschka's from-scratch video course on building reasoning models (sebastianraschka.com)
+16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows (github.com/otya128)
+Oldest GUI application that still runs on Windows 11 (enlyth.com)
