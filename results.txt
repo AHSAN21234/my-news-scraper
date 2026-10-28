@@ -1692,3 +1692,10 @@ The Exponential Time Hypothesis Is False [pdf] (github.com/openai)
 Sebastian Raschka's from-scratch video course on building reasoning models (sebastianraschka.com)
 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows (github.com/otya128)
 Oldest GUI application that still runs on Windows 11 (enlyth.com)
+
+Update: 2026-10-28 03:53:44.342694
+Git for US Legislation (lexifina.com)
+Genie 4 (deepmind.google)
+Ink droplets in motion snag top prize in Nikon Small World contest (arstechnica.com)
+Ghostty 1.4 (ghostty.org)
+Tailscale SSH: Investigation and remediation update (tailscale.com)
