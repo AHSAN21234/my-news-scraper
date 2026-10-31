@@ -1713,3 +1713,10 @@ We're releasing the weights of Mistral Large 4 (mistral.ai)
 Cuis: The Modern Smalltalk-80 (cuis.st)
 We ran AI agent swarms in Minecraft and Mindustry (labs.ycombinator.com)
 Astroterm: A Planetarium for Your Terminal (github.com/da-luce)
+
+Update: 2026-10-31 03:57:41.663087
+Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game (episodle.com)
+Backdoor in Claude Code for VS Code extension on the Cursor Marketplace (phorion.io)
+Cloudflare Turnstile solver library (no headless browser required) (github.com/chris124567)
+My favourite PowerMac is a Nintendo Wii (virtuallyfun.com)
+Tell HN: Scribd Breached
