@@ -1720,3 +1720,10 @@ Backdoor in Claude Code for VS Code extension on the Cursor Marketplace (phorion
 Cloudflare Turnstile solver library (no headless browser required) (github.com/chris124567)
 My favourite PowerMac is a Nintendo Wii (virtuallyfun.com)
 Tell HN: Scribd Breached
+
+Update: 2026-11-01 04:15:33.848805
+HackerTube: YouTube built from videos recommended by HN (karpathy.bearblog.dev)
+An Italian farmer found some unknown seeds in his attic and planted them (smithsonianmag.com)
+TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 (atlasum.net)
+Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard (github.com/guregodevo)
+Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing (jetstream.security)
