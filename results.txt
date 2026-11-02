@@ -1727,3 +1727,10 @@ An Italian farmer found some unknown seeds in his attic and planted them (smiths
 TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 (atlasum.net)
 Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard (github.com/guregodevo)
 Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing (jetstream.security)
+
+Update: 2026-11-02 04:17:46.761354
+Show HN: HackerBooks – HackerTube, but for books mentioned on HN (hackerbooks.org)
+F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix (fosscomics.com)
+Postgres 19 is late because so many more bugs are being found now (rhaas.blogspot.com)
+HackerTube: YouTube built from videos recommended by HN (karpathy.bearblog.dev)
+Ask HN: Which TV do you recommend for privacy?
