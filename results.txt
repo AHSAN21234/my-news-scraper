@@ -1734,3 +1734,10 @@ F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix (fosscomics.com
 Postgres 19 is late because so many more bugs are being found now (rhaas.blogspot.com)
 HackerTube: YouTube built from videos recommended by HN (karpathy.bearblog.dev)
 Ask HN: Which TV do you recommend for privacy?
+
+Update: 2026-11-03 05:15:49.061718
+Astra can read and write weights to improve Qwen (rikiyat.github.io)
+Show HN: Hacker Times, a New York Times-inspired version of Hacker News (hackertimes.ca)
+DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs (github.com/jiafeimiao-k-cat)
+Show HN: Subvocal – Talk to your computer without making noise
+Scaling Git at OpenAI (openai.com)
