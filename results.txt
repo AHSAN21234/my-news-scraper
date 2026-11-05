@@ -1748,3 +1748,10 @@ Distinct cellular and genetic differences in colorectal cancer in young patients
 The Internals of PostgreSQL (interdb.jp)
 Jailbreaking my car's navigation system just so I can change the time (nns.ee)
 Stringman, an $800 open-source room scale gripper robot (neufangled.com)
+
+Update: 2026-11-05 04:59:56.775041
+Residential proxies detected on White House network (layer3intel.com)
+Images 2.6 (openai.com)
+A thousand fewer paths to root (openai.com)
+Starfall – Affordable, routine access to microgravity (spacex.com)
+Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding (ricursive.com)
