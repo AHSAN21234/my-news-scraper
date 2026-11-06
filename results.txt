@@ -1755,3 +1755,10 @@ Images 2.6 (openai.com)
 A thousand fewer paths to root (openai.com)
 Starfall – Affordable, routine access to microgravity (spacex.com)
 Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding (ricursive.com)
+
+Update: 2026-11-06 04:59:30.483180
+Claude Code sends your email address to websites (github.com/anthropics)
+sshole (sshhole.com)
+MS Paint Remote Code Execution Vulnerability (cve.org)
+Nvidia Kubernetes Engine (NVKE) (github.com/dsx-ai-factory)
+Pwn.college (pwn.college)
