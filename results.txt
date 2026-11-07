@@ -1762,3 +1762,10 @@ sshole (sshhole.com)
 MS Paint Remote Code Execution Vulnerability (cve.org)
 Nvidia Kubernetes Engine (NVKE) (github.com/dsx-ai-factory)
 Pwn.college (pwn.college)
+
+Update: 2026-11-07 04:32:55.749665
+Libghostty 1.0 (mitchellh.com)
+A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost (hightouch.com)
+I Toured Unitree's Factory. I'm More Bullish on the West (josef.cn)
+Tesla to wind down Cybertruck production (nbcnews.com)
+RealPage rent-pricing case wraps with nearly $360M to renters (multifamilydive.com)
