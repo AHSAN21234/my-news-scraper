@@ -1769,3 +1769,10 @@ A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost (hightouch
 I Toured Unitree's Factory. I'm More Bullish on the West (josef.cn)
 Tesla to wind down Cybertruck production (nbcnews.com)
 RealPage rent-pricing case wraps with nearly $360M to renters (multifamilydive.com)
+
+Update: 2026-11-08 04:19:28.502312
+What I run on my $10 USD OpenStick homelab (bosscher.ch)
+Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files (apiiro.com)
+Making any integer with four 2s (2025) (thegreenplace.net)
+GitHub New pull request overview page in public preview (github.blog)
+Uranium cubes reveal why the German nuclear project failed (arstechnica.com)
