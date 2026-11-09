@@ -1776,3 +1776,10 @@ Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files (
 Making any integer with four 2s (2025) (thegreenplace.net)
 GitHub New pull request overview page in public preview (github.blog)
 Uranium cubes reveal why the German nuclear project failed (arstechnica.com)
+
+Update: 2026-11-09 04:33:40.727890
+RIP, Harvest (aphyr.com)
+KetchUp – Open-source SketchUp alternative built with Rust and WebGPU (ketchup3d.github.io)
+Unlocking any car from X brand in most of the world (shubs.io)
+Chimera Vocal Synth (chimera-vocal-synth.vercel.app)
+Outlook.com Is Quietly Rejecting Email from Domains Without DMARC (mailroute.net)
