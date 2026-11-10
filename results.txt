@@ -1783,3 +1783,10 @@ KetchUp – Open-source SketchUp alternative built with Rust and WebGPU (ketchup
 Unlocking any car from X brand in most of the world (shubs.io)
 Chimera Vocal Synth (chimera-vocal-synth.vercel.app)
 Outlook.com Is Quietly Rejecting Email from Domains Without DMARC (mailroute.net)
+
+Update: 2026-11-10 05:52:36.530576
+Claude Fable 5.2 and Mythos 5.2 (anthropic.com)
+USPS now offers official ZIP Code boundary polygons (usps.com)
+Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system (payments.ca)
+E-means: Outperforming k-means in one-tenth the epochs (e-means.github.io)
+Foldable Flight: The Best Paper Airplanes (foldableflight.com)
