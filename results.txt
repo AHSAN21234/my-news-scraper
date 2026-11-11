@@ -1790,3 +1790,10 @@ USPS now offers official ZIP Code boundary polygons (usps.com)
 Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system (payments.ca)
 E-means: Outperforming k-means in one-tenth the epochs (e-means.github.io)
 Foldable Flight: The Best Paper Airplanes (foldableflight.com)
+
+Update: 2026-11-11 04:37:26.345323
+After 7 months, Glasswing overwelms maintainers with underwhelming findings (vulncheck.com)
+Scion is back and is going to sell a kei truck in America (theautopian.com)
+A great old-timey game-programming hack (2013) (moertel.com)
+.name Grandfathered (neil.fraser.name)
+Smart home devices should work without the internet (docodethatmatters.com)
