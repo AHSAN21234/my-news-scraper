@@ -1797,3 +1797,10 @@ Scion is back and is going to sell a kei truck in America (theautopian.com)
 A great old-timey game-programming hack (2013) (moertel.com)
 .name Grandfathered (neil.fraser.name)
 Smart home devices should work without the internet (docodethatmatters.com)
+
+Update: 2026-11-12 05:40:45.029831
+93% of paint splatters are valid Perl programs (2019) (mcmillen.dev)
+Tim Peters has died (python.org)
+AWS emulator (github.com/aws)
+Critical RCE Vulnerability in Apache HTTP Server (wiz.io)
+Nvidia is preparing to oust Jensen Huang (wsj.com)
