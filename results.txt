@@ -1804,3 +1804,10 @@ Tim Peters has died (python.org)
 AWS emulator (github.com/aws)
 Critical RCE Vulnerability in Apache HTTP Server (wiz.io)
 Nvidia is preparing to oust Jensen Huang (wsj.com)
+
+Update: 2026-11-13 04:57:51.208034
+Jensen Huang resigns (apnews.com)
+Switcher (2004) (folklore.org)
+Rust 1.100 (rust-lang.org)
+Edge0-145B: Frontier AI Capabilities on Your Own Computer (edge0.ai)
+Gemini 4 Hydrogen and Orchestrator (antigravity.google)
