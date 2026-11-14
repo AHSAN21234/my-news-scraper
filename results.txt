@@ -1811,3 +1811,10 @@ Switcher (2004) (folklore.org)
 Rust 1.100 (rust-lang.org)
 Edge0-145B: Frontier AI Capabilities on Your Own Computer (edge0.ai)
 Gemini 4 Hydrogen and Orchestrator (antigravity.google)
+
+Update: 2026-11-14 04:51:08.851871
+Ggml v1.0.0 (github.com/ggml-org)
+FAA issues national ground stop – lifted 4.5 hours later (nbcnews.com)
+Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs (techpowerup.com)
+Terminal borders that don't cost a cell (joshka.net)
+What Happened to 3Com? (dfarq.homeip.net)
