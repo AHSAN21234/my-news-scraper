@@ -1825,3 +1825,10 @@ Lovable apps expose passport details and more than 200K private messages (crissy
 How did Woz write the Apple 1 BASIC before building the computer? (retrocomputing.stackexchange.com)
 We're Asking an Appeals Court to Require a Warrant for ALPR Searches (eff.org)
 A family tree of software job titles (zwischenzugs.com)
+
+Update: 2026-11-16 04:40:16.522041
+Universal XSS in uBlock Origin from website-driven element picker (iter.ca)
+Qwen4-Max (qwen.ai)
+Old Bitly links are being hijacked (ransomnews.com)
+What's Next for Nvidia? (steveblank.com)
+Preserving 30 years of Salon journalism (blog.archive.org)
