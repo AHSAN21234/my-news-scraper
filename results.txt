@@ -1832,3 +1832,10 @@ Qwen4-Max (qwen.ai)
 Old Bitly links are being hijacked (ransomnews.com)
 What's Next for Nvidia? (steveblank.com)
 Preserving 30 years of Salon journalism (blog.archive.org)
+
+Update: 2026-11-17 06:26:16.570463
+Carnegie Mellon is putting computer science courses on YouTube for free (cmu.edu)
+Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use (xusheng.dev)
+BugMeNot has closed (bugmenot.com)
+Optimizely compromised, served malware on Zoom, GitLab (report-uri.com)
+If an App Asks for Full Disk Access or System and App Protection Override (support.apple.com)
